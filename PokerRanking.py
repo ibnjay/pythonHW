@@ -1,6 +1,4 @@
 from collections import Counter
-from http.client import INSUFFICIENT_STORAGE
-from lzma import is_check_supported
 
 # A card is crated with Value and Suit string
 class Card:
@@ -43,13 +41,14 @@ class Hand:
     def get_all_value(self):
         return self.all_value
     
-    # Flush: All cards of the same suit. 
+
     def is_flush(self):
-       return False if  len(set(self.get_all_suits())) > 1 else True
+        """Flush: All cards of the same suit."""
+        return False if  len(set(self.get_all_suits())) > 1 else True
 
-    # Four of a Kind: Four cards of the same value.
+
     def is_four_of_a_kind(self):
-
+        """Four of a Kind: Four cards of the same value."""
         if len(self.distinct_value) > 3 :
            return False
         else:
@@ -59,30 +58,71 @@ class Hand:
             else:
                 return False
 
-    # Straight: All cards are consecutive values.
-    #  Assume all means if hand size is 7 then all seven have to match.
-    # JQKA2 a wrap-around is not assumed to be Straight here.
+
     def is_straight(self):
+        """
+        Straight: All cards are consecutive values.
+         Assume all means if hand size is 7 then all seven have to match.
+        JQKA2 a wrap-around is not assumed to be Straight here.
+        """
         if  self.all_value[0] + self.hand_size == self.all_value[self.hand_size-1] + 1 :
             return True
         else:
             return False
 
-    # Straight Flush: All cards are consecutive values of same suit.
+
     def is_straight_flush(self):
+        """Straight Flush: All cards are consecutive values of same suit. """
         if self.is_flush() and self.is_straight() :
             return True 
         else :
             return False
 
-    # Royal Flush: Ten, Jack, Queen, King, Ace, in same suit.
     def is_royal_flush(self):
+        """
+        Royal Flush: Ten, Jack, Queen, King, Ace, in same suit.
+        Method won't work for larger hand size due to is_flush.
+        """
         if self.is_flush() :
            return all(item in self.all_value for item in [10,11,12,13,14])
         else:
             return False
 
 
+    def is_one_pair(self):
+        """
+        One Pair: Two cards of the same value.
+        Method should work irrespective of hand size.
+        Return False for case where more than  2 cards of same Value.
+        Return False if two pairs.
+
+        """
+        if len(self.distinct_value) ==  len(self.all_value) -1 :
+            return True
+        else:
+            # count frequency of each value
+            items_with_exact_two_counts = [value for value, count in Counter(self.all_value).items() if count == 2]
+            if len(items_with_exact_two_counts) == 1:
+                return True
+            else:
+                return False
+    
+    def is_two_pair(self):
+        """
+        Two Pair: Two different pairs.
+        Method should work irrespective of hand size.
+        Return False for case where more than  2 cards of same Value
+
+        """
+        if len(self.distinct_value) + 1  >=  len(self.all_value) :
+            return False
+        else:
+            # count frequency of each value
+            items_with_exact_two_counts = [value for value, count in Counter(self.all_value).items() if count == 2]
+            if len(items_with_exact_two_counts) == 2:
+                return True
+            else:
+                return False
 
 
 def main():
@@ -107,8 +147,12 @@ def main():
         print( "is flush : ", p1_hand.is_flush())
         print("is four_of_a_kind : ", p1_hand.is_four_of_a_kind())
         print("is straight : ", p1_hand.is_straight())
-        # print(p1_hand.get_all_suits())
-        # print(p1_hand.get_all_value())
+        print("is_straight_flush : ", p1_hand.is_straight_flush())
+        print("is_royal_flush : ", p1_hand.is_royal_flush())
+        print("is_one_pair : ", p1_hand.is_one_pair())
+        print("is_two_pair : ", p1_hand.is_two_pair())
+        
+
 
 
 def test():
