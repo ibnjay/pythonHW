@@ -26,6 +26,16 @@ class Card:
 
 class Hand:
 
+    ROYAL_FLUSH = 100
+    STRAIGHT_FLUSH = 90
+    FOUR_OF_A_KIND = 80
+    FULL_HOUSE = 70
+    FLUSH = 60
+    STRAIGHT = 50
+    THREE_OF_A_KIND = 40
+    TWO_PAIRS = 30
+    ONE_PAIR = 20
+
     def __init__(self, list_of_cards):
         """A Hand is crated with a list of Card object"""
         self.list_of_cards = list_of_cards
@@ -186,7 +196,8 @@ class Hand:
         Return Type is Tuple.
         """
         bool_three_of_a_kind, tie_breaker = self.is_three_of_a_kind()
-        if bool_three_of_a_kind and self.is_one_pair()[0]:
+        bool_one_pair = self.is_one_pair()[0]
+        if bool_three_of_a_kind and bool_one_pair :
             return (True, tie_breaker)
         else:
             return (False, -1)
@@ -199,39 +210,65 @@ class Hand:
         return self.all_value[-1]
 
 
-    def rank(self):
-        
-        ROYAL_FLUSH = 100
-        STRAIGHT_FLUSH = 90
-        FOUR_OF_A_KIND = 80
-        FULL_HOUSE = 70
-        FLUSH = 60
-        STRAIGHT = 50
-        THREE_OF_A_KIND = 40
-        TWO_PAIRS = 30
-        ONE_PAIR = 20
+    def get_highest_rank(self):
+        """ 
+        Assigns numberical value for differnt Ranks.
+        Returns Numerical value of the rank/hand. And Value of Highest card for tie breaking.
+        For rank of TWO_PAIRS and ONE_PAIR two tie breakers are returned.
+        For rank of ROYAL_FLUSH there is no meaningful tie breaker.
+         """
 
-        if self.is_royal_flush(): return (ROYAL_FLUSH, -1)
-        elif self.is_straight_flush()[0] : return (STRAIGHT_FLUSH,  self.is_straight_flush()[1])
-        elif self.is_four_of_a_kind()[0] : return (FOUR_OF_A_KIND, self.is_four_of_a_kind()[1])
-        elif self.is_full_house()[0] : return (FULL_HOUSE, self.is_full_house()[1])
-        elif self.is_flush()[0] : return (FLUSH, self.is_flush()[1])
-        elif self.is_straight()[0] : return (STRAIGHT, self.is_straight()[1])
-        if self.is_three_of_a_kind()[0] : return (THREE_OF_A_KIND, self.is_three_of_a_kind()[1])
-        elif self.is_two_pair()[0] : return (TWO_PAIRS, self.is_two_pair()[1])
-        elif self.is_one_pair()[0] : return (ONE_PAIR, self.is_one_pair()[1])
-        else: return (self.highest_value_card(), -1)
+        if self.is_royal_flush(): return (self.ROYAL_FLUSH, -1)
+        
+        bool_result, tie_breaker  = self.is_straight_flush()
+        if bool_result : return  (self.STRAIGHT_FLUSH,  tie_breaker)
+
+        bool_result, tie_breaker  =  self.is_four_of_a_kind()
+        if bool_result : return  (self.FOUR_OF_A_KIND,  tie_breaker)
+
+        bool_result, tie_breaker  =  self.is_full_house()
+        if bool_result : return  (self.FULL_HOUSE,  tie_breaker)
+
+        bool_result, tie_breaker  =  self.is_flush()
+        if bool_result : return  (self.FLUSH,  tie_breaker)
+
+        bool_result, tie_breaker  =  self.is_straight()
+        if bool_result : return  (self.STRAIGHT,  tie_breaker)
+        
+        bool_result, tie_breaker  =  self.is_three_of_a_kind()
+        if bool_result : return  (self.THREE_OF_A_KIND,  tie_breaker)
+
+        all_result  =  self.is_two_pair()
+        bool_result = all_result[0]
+        if bool_result :
+            tie_breaker, tie_breaker2 = all_result[1] , all_result[2]
+            return  (self.TWO_PAIRS,  tie_breaker, tie_breaker2)
+
+        all_result  =  self.is_one_pair()
+        bool_result = all_result[0]
+        if bool_result :
+            tie_breaker, tie_breaker2 = all_result[1] , all_result[2]
+            return  (self.ONE_PAIR,  tie_breaker, tie_breaker2)
+
+        else: 
+            # return hightest card (value of card serves the rank value too). 
+            # With second highest for tie breaker.
+            tie_breaker = self.all_value[-2]
+            return (self.highest_value_card(), tie_breaker)
+
 
 
 
 def main(filename='card_game.txt'):
     file_to_read = open(filename, 'r')
     lines = file_to_read.readlines()
-    print(len(lines))
+    game_number = 0
+
     for line in lines:
+        game_number += 1
         # Use rstrip to remove /n newline character. split based on ' '
         all_hands_in_game = line.rstrip().split(' ')
-        # print(all_hands_in_game)
+
         p1_partition = all_hands_in_game[:5]
         p2_partition = all_hands_in_game[5:]
 
@@ -241,28 +278,45 @@ def main(filename='card_game.txt'):
         p1_hand = Hand(p1_list_of_cards)
         p2_hand = Hand(p2_list_of_cards)
 
-        print(p1_hand)
-        print(p2_hand)
-        p1_rank, p1_tb1 = p1_hand.rank()
-        p2_rank, p2_tb1 = p2_hand.rank()
+        rank_res_p1 = p1_hand.get_highest_rank()
+        rank_res_p2 = p2_hand.get_highest_rank()
+
+        p1_rank, p1_tie_breaker1, p1_tie_breaker2 = rank_res_p1[0], rank_res_p1[1], rank_res_p1[2] if len(rank_res_p1) == 3 else -1
+        p2_rank, p2_tie_breaker1, p2_tie_breaker2 = rank_res_p2[0], rank_res_p2[1], rank_res_p2[2] if len(rank_res_p2) == 3 else -1
+       
         print("RANK P1 : {}. Rank P2 : {} ".format(p1_rank, p2_rank))
 
+        PLAYER_1 = "Player 1"
+        PLAYER_2 = "Player 2"
+        TIE = "Tie"
+
         if p1_rank > p2_rank:
-            winner = "Player 1"
+            winner = PLAYER_1
         elif p2_rank > p1_rank:
-            winner = "Player 2"
+            winner = PLAYER_2
         else:
-            print("TIE")
-            if p1_tb1 > p2_tb1 :
-                winner = "Player 1"
-            elif p1_tb1 < p2_tb1 :
-                winner = "Player 2"
+            # print("1st TIE")
+            if p1_tie_breaker1 > p2_tie_breaker1 :
+                winner = PLAYER_1
+            elif p1_tie_breaker1 < p2_tie_breaker1 :
+                winner = PLAYER_2
             else:
-                winner = "TIE"
-        print( "Winner of game is : {}".format(winner))
+                # print("2nd TIE")
+                if p1_tie_breaker2 > p2_tie_breaker2 :
+                    winner = PLAYER_1
+                elif p1_tie_breaker2 < p2_tie_breaker2 :
+                    winner = PLAYER_2
+                else:    
+                    winner = TIE
+
+        print( "Winner of game  {} is : {}".format(game_number, winner))
+
+        winning_hand = p1_partition if winner == PLAYER_1 else p2_partition
+        if  winner != TIE :
+            print("Winning players hand : {}".format(winning_hand))
+
 
         
 
 if __name__ == "__main__":
     main()
-    # test()

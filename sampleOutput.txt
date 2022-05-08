@@ -1,0 +1,3000 @@
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  1 is : Player 2
+Winning players hand : ['7D', '2S', '5D', '3S', 'AC']
+RANK P1 : 30. Rank P2 : 13 
+Winner of game  2 is : Player 1
+Winning players hand : ['5C', 'AD', '5D', 'AC', '9C']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  3 is : Player 1
+Winning players hand : ['3H', '7H', '6S', 'KC', 'JS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  4 is : Player 2
+Winning players hand : ['9H', '4D', 'JC', 'KS', 'JS']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  5 is : Player 2
+Winning players hand : ['AS', 'KH', '4C', 'AD', '4S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  6 is : Player 1
+Winning players hand : ['5H', 'KS', '9C', '7D', '9H']
+RANK P1 : 50. Rank P2 : 14 
+Winner of game  7 is : Player 1
+Winning players hand : ['6H', '4H', '5C', '3H', '2H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  8 is : Player 2
+Winning players hand : ['KC', '4C', '3H', '7S', 'KS']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  9 is : Player 2
+Winning players hand : ['4C', 'QS', 'QC', 'AC', 'KH']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  10 is : Player 1
+Winning players hand : ['JC', '6S', '5H', '2H', '2D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  11 is : Player 2
+Winning players hand : ['TS', '6D', '3S', 'AS', 'AC']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  12 is : Player 1
+Winning players hand : ['2H', '4S', '5C', '5S', 'TC']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  13 is : Player 1
+Winning players hand : ['QD', 'AS', '6H', 'JS', '2C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  14 is : Player 2
+Winning players hand : ['3S', '6D', '6S', '4H', 'KC']
+RANK P1 : 8. Rank P2 : 20 
+Winner of game  15 is : Player 2
+Winning players hand : ['9S', '4S', 'QH', '4H', 'JD']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  16 is : Player 2
+Winning players hand : ['TS', '8H', 'QD', 'AC', '5C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  17 is : Player 2
+Winning players hand : ['AD', 'AS', '8H', '2H', 'QS']
+RANK P1 : 30. Rank P2 : 12 
+Winner of game  18 is : Player 1
+Winning players hand : ['6S', '8D', '4C', '8S', '6C']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  19 is : Player 2
+Winning players hand : ['9S', '9D', '9C', 'AC', '3D']
+RANK P1 : 12. Rank P2 : 10 
+Winner of game  20 is : Player 1
+Winning players hand : ['3C', 'QS', '2S', '4H', 'JH']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  21 is : Player 2
+Winning players hand : ['8C', 'JD', 'AS', '7H', '7D']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  22 is : Player 1
+Winning players hand : ['6H', 'TD', '9D', 'AS', 'JH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  23 is : Player 2
+Winning players hand : ['AC', 'TS', '3C', '3D', '5C']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  24 is : Player 2
+Winning players hand : ['6C', 'TS', '3S', 'AD', '8C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  25 is : Player 2
+Winning players hand : ['5C', 'JC', '2H', '5S', '3D']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  26 is : Player 2
+Winning players hand : ['5D', 'JD', '7H', 'JS', '8H']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  27 is : Player 1
+Winning players hand : ['KH', '4H', 'AS', 'JS', 'QS']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  28 is : Player 2
+Winning players hand : ['4D', 'AS', '9S', 'JC', 'KD']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  29 is : Player 1
+Winning players hand : ['QD', '5H', '4D', '5D', 'KH']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  30 is : Player 1
+Winning players hand : ['2C', '9H', '6H', '5C', '9D']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  31 is : Player 1
+Winning players hand : ['7D', '6D', 'AS', 'QD', 'JH']
+RANK P1 : 14. Rank P2 : 10 
+Winner of game  32 is : Player 1
+Winning players hand : ['3H', 'KH', 'QD', 'AD', '8C']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  33 is : Player 1
+Winning players hand : ['AH', '9S', '4D', '9D', '8S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  34 is : Player 2
+Winning players hand : ['TS', '9H', 'AH', 'AD', '8S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  35 is : Player 1
+Winning players hand : ['5C', '7H', '5D', 'KD', '9H']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  36 is : Player 2
+Winning players hand : ['QH', '9D', '9H', 'TS', 'TC']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  37 is : Player 2
+Winning players hand : ['AD', '6D', 'QC', 'JS', 'KH']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  38 is : Player 1
+Winning players hand : ['9S', '3H', '9D', 'JD', '5C']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  39 is : Player 2
+Winning players hand : ['AD', '9S', 'KH', '9D', '7D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  40 is : Player 1
+Winning players hand : ['KC', '9C', '7C', 'JC', 'JS']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  41 is : Player 2
+Winning players hand : ['8S', '8H', '9H', '9C', 'JC']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  42 is : Player 2
+Winning players hand : ['4H', '6D', 'AD', '9H', '9D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  43 is : Player 1
+Winning players hand : ['3S', 'KS', 'QS', '7H', 'KH']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  44 is : Player 1
+Winning players hand : ['2H', '2C', '6H', 'TH', 'TC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  45 is : Player 2
+Winning players hand : ['6D', 'TH', '4D', '4C', 'KH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  46 is : Player 2
+Winning players hand : ['3C', '6D', '2D', '9H', '6C']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  47 is : Player 2
+Winning players hand : ['7H', '4C', '9C', '3H', '9H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  48 is : Player 1
+Winning players hand : ['5H', 'JH', 'TS', '7S', 'TD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  49 is : Player 2
+Winning players hand : ['8D', '5H', '9D', '8S', '2S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  50 is : Player 1
+Winning players hand : ['4H', 'KH', 'KS', '9S', '2S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  51 is : Player 2
+Winning players hand : ['5D', 'AC', '8D', '2S', 'AS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  52 is : Player 2
+Winning players hand : ['9S', '3C', '9C', '5S', 'JS']
+RANK P1 : 40. Rank P2 : 10 
+Winner of game  53 is : Player 1
+Winning players hand : ['AD', '3C', '3D', 'KS', '3S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  54 is : Player 2
+Winning players hand : ['QS', 'QD', '3D', '6C', 'KC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  55 is : Player 2
+Winning players hand : ['TC', 'QC', '3C', 'QH', 'JS']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  56 is : Player 2
+Winning players hand : ['9C', 'JH', '8S', '8C', '9S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  57 is : Player 1
+Winning players hand : ['8S', '2H', 'QH', '4D', 'QC']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  58 is : Player 2
+Winning players hand : ['6S', '3C', '3H', 'AS', '7S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  59 is : Player 2
+Winning players hand : ['TS', '8H', 'AH', 'AC', 'JC']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  60 is : Player 2
+Winning players hand : ['JC', '3C', '7H', '3H', '5C']
+RANK P1 : 40. Rank P2 : 14 
+Winner of game  61 is : Player 1
+Winning players hand : ['3D', 'AD', '3C', '3S', '4C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  62 is : Player 2
+Winning players hand : ['AH', 'TS', 'JD', '8H', 'AD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  63 is : Player 2
+Winning players hand : ['4D', '3D', '3S', 'TC', 'JD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  64 is : Player 2
+Winning players hand : ['KC', 'TD', 'TS', '7D', '6S']
+RANK P1 : 20. Rank P2 : 9 
+Winner of game  65 is : Player 1
+Winning players hand : ['8H', 'JH', 'TC', '3S', '8D']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  66 is : Player 1
+Winning players hand : ['2C', '9D', 'KC', 'QH', 'TH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  67 is : Player 1
+Winning players hand : ['QS', '3C', 'QD', '8H', 'KH']
+RANK P1 : 10. Rank P2 : 13 
+Winner of game  68 is : Player 2
+Winning players hand : ['8C', '9C', 'JD', 'TC', 'KD']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  69 is : Player 1
+Winning players hand : ['QC', 'TC', 'JD', 'TS', '8C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  70 is : Player 2
+Winning players hand : ['6S', 'AS', '9H', 'KH', '6H']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  71 is : Player 1
+Winning players hand : ['2H', '4D', 'AH', '2D', 'JH']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  72 is : Player 1
+Winning players hand : ['KD', '8C', '9S', 'JH', 'QD']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  73 is : Player 2
+Winning players hand : ['6H', '7S', '9C', '7C', 'KC']
+RANK P1 : 10. Rank P2 : 13 
+Winner of game  74 is : Player 2
+Winning players hand : ['QC', '8S', 'JS', '4H', 'KS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  75 is : Player 2
+Winning players hand : ['KD', '7C', '6C', '2D', '7D']
+RANK P1 : 30. Rank P2 : 14 
+Winner of game  76 is : Player 1
+Winning players hand : ['JC', '6H', '6S', 'JS', '4H']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  77 is : Player 2
+Winning players hand : ['3D', 'KH', 'KC', '5D', '5C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  78 is : Player 2
+Winning players hand : ['6D', '6S', 'QH', 'JD', 'KS']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  79 is : Player 1
+Winning players hand : ['8C', '7S', '8S', 'QH', '2S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  80 is : Player 1
+Winning players hand : ['8S', '3C', '6H', '6C', '2C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  81 is : Player 2
+Winning players hand : ['7H', 'JS', '6D', 'QC', 'QD']
+RANK P1 : 20. Rank P2 : 60 
+Winner of game  82 is : Player 2
+Winning players hand : ['6H', '2H', '8H', 'KH', '4H']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  83 is : Player 1
+Winning players hand : ['KS', 'JS', 'KD', '5D', '2D']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  84 is : Player 2
+Winning players hand : ['3S', '7S', 'AH', 'JD', '2D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  85 is : Player 1
+Winning players hand : ['AH', 'QH', 'AS', 'JC', '8S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  86 is : Player 1
+Winning players hand : ['JC', '5H', 'TD', '7C', '5D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  87 is : Player 1
+Winning players hand : ['KC', '2H', 'AC', 'AH', '7D']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  88 is : Player 1
+Winning players hand : ['9S', '5S', '9C', '6H', '8S']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  89 is : Player 2
+Winning players hand : ['7H', 'AC', '5S', '7C', '5D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  90 is : Player 2
+Winning players hand : ['8C', '2H', 'TS', '2C', '7D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  91 is : Player 1
+Winning players hand : ['KD', 'KC', '6S', '3D', '7D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  92 is : Player 2
+Winning players hand : ['KC', '3H', '7C', '5S', 'KD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  93 is : Player 2
+Winning players hand : ['KC', 'TD', '7H', '7C', '4C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  94 is : Player 2
+Winning players hand : ['TD', 'KS', '8H', '8C', '9S']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  95 is : Player 2
+Winning players hand : ['AH', 'KS', 'KC', '9S', '2C']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  96 is : Player 1
+Winning players hand : ['4D', '4S', '8H', 'TD', '9C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  97 is : Player 2
+Winning players hand : ['KD', '2C', '5C', '9D', '9C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  98 is : Player 2
+Winning players hand : ['QD', 'QS', '8D', 'JC', '4S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  99 is : Player 2
+Winning players hand : ['5D', 'JC', '9D', 'JS', 'AS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  100 is : Player 2
+Winning players hand : ['6C', 'QC', 'JC', 'QD', '9S']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  101 is : Player 1
+Winning players hand : ['JC', 'QS', 'JH', '2C', '6S']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  102 is : Player 2
+Winning players hand : ['2S', 'KC', '2H', 'JS', '2C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  103 is : Player 2
+Winning players hand : ['7H', 'JH', 'JS', 'KS', 'AC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  104 is : Player 2
+Winning players hand : ['7D', '5C', 'AD', '9D', 'AS']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  105 is : Player 2
+Winning players hand : ['3H', '4C', '3S', '8H', 'AC']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  106 is : Player 1
+Winning players hand : ['KD', '5H', 'JC', '8H', 'JD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  107 is : Player 2
+Winning players hand : ['JD', '8S', '5S', '6D', '5H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  108 is : Player 2
+Winning players hand : ['5C', '5D', '9C', 'TH', '8C']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  109 is : Player 2
+Winning players hand : ['2C', '6S', '7S', 'AS', 'KS']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  110 is : Player 1
+Winning players hand : ['8C', 'QD', 'JC', 'QS', 'TC']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  111 is : Player 2
+Winning players hand : ['2H', '8D', 'JC', 'KS', '4D']
+RANK P1 : 30. Rank P2 : 10 
+Winner of game  112 is : Player 1
+Winning players hand : ['5S', '9C', 'KH', 'KD', '9H']
+RANK P1 : 14. Rank P2 : 10 
+Winner of game  113 is : Player 1
+Winning players hand : ['5H', 'AS', 'TC', '4D', '8C']
+RANK P1 : 11. Rank P2 : 30 
+Winner of game  114 is : Player 2
+Winning players hand : ['6C', '4S', '5H', '5S', '6D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  115 is : Player 2
+Winning players hand : ['9S', '6D', 'JS', '9H', '3C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  116 is : Player 2
+Winning players hand : ['5D', '9S', '7C', '9C', 'AH']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  117 is : Player 2
+Winning players hand : ['QD', 'KS', '9D', '9H', 'AS']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  118 is : Player 2
+Winning players hand : ['AH', '5S', 'AS', 'AD', '8S']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  119 is : Player 2
+Winning players hand : ['KS', '5H', 'AC', '3H', 'JC']
+RANK P1 : 14. Rank P2 : 30 
+Winner of game  120 is : Player 2
+Winning players hand : ['6D', '5H', 'QH', '6H', '5S']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  121 is : Player 1
+Winning players hand : ['KC', 'AH', 'QH', '2H', '7D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  122 is : Player 1
+Winning players hand : ['6C', '8S', '3H', '6D', 'KS']
+RANK P1 : 30. Rank P2 : 13 
+Winner of game  123 is : Player 1
+Winning players hand : ['9H', '4D', '4S', '6S', '9D']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  124 is : Player 2
+Winning players hand : ['JH', 'KD', '3C', 'QD', '8C']
+RANK P1 : 12. Rank P2 : 40 
+Winner of game  125 is : Player 2
+Winning players hand : ['AS', 'AH', '6S', 'AD', '3C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  126 is : Player 2
+Winning players hand : ['AH', '5C', '6D', '8S', '5D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  127 is : Player 1
+Winning players hand : ['TD', 'TS', '7C', 'AD', 'JC']
+RANK P1 : 30. Rank P2 : 13 
+Winner of game  128 is : Player 1
+Winning players hand : ['5D', '4D', '5S', '8H', '4H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  129 is : Player 2
+Winning players hand : ['KD', '5C', '8S', '7D', '8H']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  130 is : Player 1
+Winning players hand : ['AC', '3D', 'AS', '8C', 'TD']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  131 is : Player 2
+Winning players hand : ['TC', 'JD', 'KD', 'AS', 'KC']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  132 is : Player 2
+Winning players hand : ['AS', '2D', '3D', 'AD', '2H']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  133 is : Player 2
+Winning players hand : ['KC', '6H', '9H', '9S', '2C']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  134 is : Player 2
+Winning players hand : ['3H', '8D', 'TC', '8H', '9H']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  135 is : Player 1
+Winning players hand : ['6H', 'KD', '2C', 'TD', '2H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  136 is : Player 1
+Winning players hand : ['KD', '7S', '3C', '7C', 'AS']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  137 is : Player 2
+Winning players hand : ['9S', 'QC', 'AD', 'TD', 'TS']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  138 is : Player 1
+Winning players hand : ['2H', '7C', 'TS', 'TC', '8C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  139 is : Player 2
+Winning players hand : ['6D', '3H', 'TD', 'TH', '8H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  140 is : Player 1
+Winning players hand : ['9D', 'TD', '9H', 'QC', '5D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  141 is : Player 2
+Winning players hand : ['TH', 'TC', '7D', '8H', 'KC']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  142 is : Player 2
+Winning players hand : ['KH', 'AH', '5H', '6H', 'KC']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  143 is : Player 2
+Winning players hand : ['JD', '8D', '6H', '8C', '6C']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  144 is : Player 2
+Winning players hand : ['JC', '9H', '4H', 'AD', '2S']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  145 is : Player 1
+Winning players hand : ['TD', '6S', '7D', 'JS', 'KD']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  146 is : Player 2
+Winning players hand : ['4H', 'QC', '5S', '9S', '9C']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  147 is : Player 1
+Winning players hand : ['2C', 'KD', '9H', 'JS', '9S']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  148 is : Player 1
+Winning players hand : ['AS', '2H', '5D', 'AD', '5H']
+RANK P1 : 8. Rank P2 : 14 
+Winner of game  149 is : Player 2
+Winning players hand : ['2C', 'AD', 'KD', '9C', 'TS']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  150 is : Player 1
+Winning players hand : ['7H', 'QD', 'JH', '5H', 'JS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  151 is : Player 2
+Winning players hand : ['AD', '7C', '2D', '4H', 'AC']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  152 is : Player 2
+Winning players hand : ['2C', 'JC', '4H', 'JD', 'AH']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  153 is : Player 2
+Winning players hand : ['AH', '2C', '5D', 'AS', 'AC']
+RANK P1 : 14. Rank P2 : 30 
+Winner of game  154 is : Player 2
+Winning players hand : ['4C', '7H', '7D', '4H', 'AH']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  155 is : Player 2
+Winning players hand : ['4H', '5H', '3D', '3C', '7H']
+RANK P1 : 14. Rank P2 : 40 
+Winner of game  156 is : Player 2
+Winning players hand : ['2H', '3D', '6S', '3S', '3H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  157 is : Player 2
+Winning players hand : ['TC', 'JS', '6S', '9C', '6C']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  158 is : Player 1
+Winning players hand : ['QH', 'KD', 'QD', '6D', 'AC']
+RANK P1 : 9. Rank P2 : 12 
+Winner of game  159 is : Player 2
+Winning players hand : ['3H', '4S', 'QC', '9S', '5H']
+RANK P1 : 9. Rank P2 : 20 
+Winner of game  160 is : Player 2
+Winning players hand : ['8S', '5H', '4D', '3S', '4S']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  161 is : Player 1
+Winning players hand : ['KD', '9S', '4S', 'TC', '7S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  162 is : Player 2
+Winning players hand : ['2H', '6H', 'KS', 'KD', '4D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  163 is : Player 2
+Winning players hand : ['4S', '8H', '2D', '6C', '8S']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  164 is : Player 1
+Winning players hand : ['6H', 'QS', '6C', 'TC', 'QD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  165 is : Player 2
+Winning players hand : ['TC', '5D', 'TS', 'JS', '8H']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  166 is : Player 2
+Winning players hand : ['2C', '6S', '5H', '8H', 'AS']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  167 is : Player 1
+Winning players hand : ['JS', '9C', '5C', '6S', '9D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  168 is : Player 1
+Winning players hand : ['4D', '8D', '8S', '6C', '7C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  169 is : Player 2
+Winning players hand : ['9S', '6H', '7S', '9C', '2C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  170 is : Player 2
+Winning players hand : ['7D', '9H', '9S', '6H', 'KH']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  171 is : Player 2
+Winning players hand : ['AC', '3S', '5C', '2H', 'KD']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  172 is : Player 1
+Winning players hand : ['4C', 'AS', 'JS', '9S', '7C']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  173 is : Player 2
+Winning players hand : ['AD', '9S', '4S', '5S', 'KS']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  174 is : Player 1
+Winning players hand : ['4C', '2C', '7D', '3D', 'AS']
+RANK P1 : 14. Rank P2 : 10 
+Winner of game  175 is : Player 1
+Winning players hand : ['8S', '5H', '3D', '2S', 'AC']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  176 is : Player 1
+Winning players hand : ['QD', 'TH', '7S', 'TS', '3D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  177 is : Player 1
+Winning players hand : ['TC', 'QD', 'AD', '9C', 'QS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  178 is : Player 2
+Winning players hand : ['8S', 'JD', '2D', '8D', 'KC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  179 is : Player 2
+Winning players hand : ['8D', '7D', '7S', '9C', 'KH']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  180 is : Player 2
+Winning players hand : ['2S', 'QD', 'KD', 'TS', '4H']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  181 is : Player 2
+Winning players hand : ['3S', '8S', '3H', 'TC', 'KH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  182 is : Player 2
+Winning players hand : ['KD', 'JH', 'JD', 'AH', '5C']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  183 is : Player 1
+Winning players hand : ['5C', '6C', '5H', '2H', 'JH']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  184 is : Player 2
+Winning players hand : ['9C', 'QD', 'KH', '8D', 'TC']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  185 is : Player 2
+Winning players hand : ['AS', '7C', '9H', '5H', 'JC']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  186 is : Player 2
+Winning players hand : ['KC', '6S', '6C', '5C', '4C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  187 is : Player 2
+Winning players hand : ['9C', 'AS', '9S', '7C', '4C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  188 is : Player 2
+Winning players hand : ['KD', 'QH', 'QS', 'JH', '2C']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  189 is : Player 1
+Winning players hand : ['8C', '9D', 'AH', '2H', 'AC']
+RANK P1 : 40. Rank P2 : 11 
+Winner of game  190 is : Player 1
+Winning players hand : ['QD', '9H', '5S', 'QS', 'QC']
+RANK P1 : 30. Rank P2 : 14 
+Winner of game  191 is : Player 1
+Winning players hand : ['6C', '6S', '3H', '5H', '3S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  192 is : Player 2
+Winning players hand : ['KC', '6C', '3D', '3S', 'TC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  193 is : Player 2
+Winning players hand : ['5H', '3H', '8S', '3S', 'TC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  194 is : Player 2
+Winning players hand : ['QC', '8D', 'AH', '3C', 'AC']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  195 is : Player 2
+Winning players hand : ['JH', '2D', 'QD', 'AS', '8C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  196 is : Player 2
+Winning players hand : ['JC', '6S', '9H', '4H', 'JH']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  197 is : Player 1
+Winning players hand : ['AH', '5S', '6H', '9S', 'AD']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  198 is : Player 2
+Winning players hand : ['AD', '4S', '9C', 'KC', '5S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  199 is : Player 1
+Winning players hand : ['9D', '6H', '4D', 'TC', '4C']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  200 is : Player 2
+Winning players hand : ['AD', 'QS', 'TH', 'JD', '8S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  201 is : Player 1
+Winning players hand : ['3S', '4S', '7S', 'AH', 'AS']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  202 is : Player 2
+Winning players hand : ['5C', '9C', 'TS', '5H', '9D']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  203 is : Player 2
+Winning players hand : ['JS', 'KH', '6H', '5D', '2C']
+RANK P1 : 40. Rank P2 : 14 
+Winner of game  204 is : Player 1
+Winning players hand : ['JD', 'JS', 'JC', 'TH', '2D']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  205 is : Player 1
+Winning players hand : ['7S', 'KH', '5S', '9D', '5D']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  206 is : Player 2
+Winning players hand : ['7C', 'AD', 'AS', 'AH', '9C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  207 is : Player 2
+Winning players hand : ['QC', 'AH', 'AS', '3C', '4S']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  208 is : Player 2
+Winning players hand : ['7C', '3H', '3C', 'KH', 'JH']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  209 is : Player 2
+Winning players hand : ['4C', '2S', '4D', 'KC', '7H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  210 is : Player 2
+Winning players hand : ['6S', 'AD', 'TC', '6C', 'JC']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  211 is : Player 2
+Winning players hand : ['8H', '8S', 'AC', '3C', 'TS']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  212 is : Player 1
+Winning players hand : ['QD', 'QS', 'TH', '3C', 'TS']
+RANK P1 : 12. Rank P2 : 30 
+Winner of game  213 is : Player 2
+Winning players hand : ['7S', 'TS', 'AD', '7D', 'AC']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  214 is : Player 1
+Winning players hand : ['AH', '7H', '4S', '6D', '7C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  215 is : Player 2
+Winning players hand : ['QS', 'TS', '2H', '2C', '5C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  216 is : Player 2
+Winning players hand : ['JS', '3C', 'JC', '6S', 'AH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  217 is : Player 2
+Winning players hand : ['JC', 'JD', '9D', 'TD', 'KH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  218 is : Player 2
+Winning players hand : ['AC', '5H', '5C', '7S', '8H']
+RANK P1 : 30. Rank P2 : 12 
+Winner of game  219 is : Player 1
+Winning players hand : ['QC', '2D', 'AC', 'QD', '2S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  220 is : Player 2
+Winning players hand : ['6H', '3S', '8S', 'AS', '8C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  221 is : Player 2
+Winning players hand : ['JC', 'QH', '5S', '3H', 'QS']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  222 is : Player 2
+Winning players hand : ['AC', '5C', '6C', 'AH', '7C']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  223 is : Player 1
+Winning players hand : ['8D', '9H', 'AH', 'JD', 'TD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  224 is : Player 2
+Winning players hand : ['4S', '5S', '5D', 'TD', 'KS']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  225 is : Player 2
+Winning players hand : ['4C', '7C', 'AD', '5C', '2D']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  226 is : Player 2
+Winning players hand : ['6S', '6C', '5D', '2S', 'TH']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  227 is : Player 2
+Winning players hand : ['4H', 'QC', '3D', '7C', 'AS']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  228 is : Player 2
+Winning players hand : ['5C', 'TH', 'QS', 'QD', '2S']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  229 is : Player 2
+Winning players hand : ['6S', 'KC', '7D', '7C', '5C']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  230 is : Player 1
+Winning players hand : ['7H', 'KD', 'AH', '4D', 'KH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  231 is : Player 2
+Winning players hand : ['4D', '6C', '8C', '4H', '5S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  232 is : Player 2
+Winning players hand : ['8D', 'AS', '9D', 'AD', '3S']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  233 is : Player 1
+Winning players hand : ['6D', '6H', '5D', '5S', 'TC']
+RANK P1 : 8. Rank P2 : 20 
+Winner of game  234 is : Player 2
+Winning players hand : ['AD', 'KS', '2D', '7D', '7C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  235 is : Player 1
+Winning players hand : ['KC', 'QH', 'JC', 'AC', 'QD']
+RANK P1 : 14. Rank P2 : 11 
+Winner of game  236 is : Player 1
+Winning players hand : ['JS', 'AH', '8S', '5H', '3D']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  237 is : Player 1
+Winning players hand : ['4S', 'QS', '7D', 'AS', '9H']
+RANK P1 : 10. Rank P2 : 12 
+Winner of game  238 is : Player 2
+Winning players hand : ['QH', '3D', '9H', '8S', '6C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  239 is : Player 2
+Winning players hand : ['JD', '5C', '9C', 'KS', 'KD']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  240 is : Player 2
+Winning players hand : ['6C', '8S', 'KC', '5C', 'TC']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  241 is : Player 1
+Winning players hand : ['5S', '3D', 'KS', 'AC', '4S']
+RANK P1 : 50. Rank P2 : 14 
+Winner of game  242 is : Player 1
+Winning players hand : ['TS', '8H', '9S', '6S', '7S']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  243 is : Player 2
+Winning players hand : ['3D', '7D', '5D', '7S', 'JH']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  244 is : Player 1
+Winning players hand : ['8S', '7S', '9D', 'QC', 'AC']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  245 is : Player 2
+Winning players hand : ['7C', 'AH', 'QC', 'KS', '5H']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  246 is : Player 2
+Winning players hand : ['TC', '8H', 'KC', '6H', 'AS']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  247 is : Player 1
+Winning players hand : ['KH', '7C', 'TC', '6S', 'TD']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  248 is : Player 1
+Winning players hand : ['3H', '4C', '4H', 'TC', 'TH']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  249 is : Player 2
+Winning players hand : ['4D', '3D', '8S', 'QH', 'KC']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  250 is : Player 1
+Winning players hand : ['3H', '6S', 'AD', '7H', '3S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  251 is : Player 2
+Winning players hand : ['QS', '9C', '6C', '2D', 'QD']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  252 is : Player 1
+Winning players hand : ['4S', 'QH', '4D', '5H', 'KC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  253 is : Player 2
+Winning players hand : ['KH', '9H', '5S', 'KC', 'JC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  254 is : Player 2
+Winning players hand : ['QD', 'KS', '9C', '7S', 'KC']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  255 is : Player 1
+Winning players hand : ['TS', '6S', 'QC', '6C', 'TH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  256 is : Player 2
+Winning players hand : ['QD', '6D', '9S', 'JC', '9D']
+RANK P1 : 20. Rank P2 : 70 
+Winner of game  257 is : Player 2
+Winning players hand : ['6H', '6S', '6C', 'KS', 'KH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  258 is : Player 2
+Winning players hand : ['KH', '6S', 'QD', '6H', 'AS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  259 is : Player 2
+Winning players hand : ['TH', '2S', 'KH', '5C', '5H']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  260 is : Player 2
+Winning players hand : ['4S', 'KH', '8C', '2D', 'JS']
+RANK P1 : 20. Rank P2 : 50 
+Winner of game  261 is : Player 2
+Winning players hand : ['9H', 'JH', '8S', 'TH', '7H']
+RANK P1 : 14. Rank P2 : 40 
+Winner of game  262 is : Player 2
+Winning players hand : ['8H', '4S', 'AC', '8D', '8S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  263 is : Player 2
+Winning players hand : ['JC', '5C', 'QS', '2D', 'JD']
+RANK P1 : 10. Rank P2 : 14 
+Winner of game  264 is : Player 2
+Winning players hand : ['QS', '2H', '3C', 'AH', 'KS']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  265 is : Player 1
+Winning players hand : ['4S', '7C', '9C', '7D', 'JH']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  266 is : Player 2
+Winning players hand : ['9S', 'QS', 'KH', 'QH', '5C']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  267 is : Player 1
+Winning players hand : ['JC', '6S', '9C', 'QH', 'JH']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  268 is : Player 2
+Winning players hand : ['4S', '3S', '6S', '3D', 'QS']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  269 is : Player 2
+Winning players hand : ['6D', 'TH', '7S', 'JC', 'AH']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  270 is : Player 2
+Winning players hand : ['TS', 'AD', '4D', '3H', '6H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  271 is : Player 1
+Winning players hand : ['2D', '3H', '7D', 'JD', '3D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  272 is : Player 1
+Winning players hand : ['4H', '9H', '9C', '2C', '7S']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  273 is : Player 2
+Winning players hand : ['9S', '8D', 'KS', 'AD', 'KC']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  274 is : Player 1
+Winning players hand : ['TS', '5H', 'JD', 'QS', 'QH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  275 is : Player 2
+Winning players hand : ['AH', 'QC', 'QD', 'TH', '7H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  276 is : Player 2
+Winning players hand : ['9H', 'AS', '8H', 'JS', '9D']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  277 is : Player 2
+Winning players hand : ['5H', '5S', '9S', 'JC', 'KD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  278 is : Player 2
+Winning players hand : ['7C', 'AD', '9D', 'AC', 'TD']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  279 is : Player 1
+Winning players hand : ['6S', '4H', '4S', '9C', '8D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  280 is : Player 1
+Winning players hand : ['5S', 'JC', '5H', '4S', 'QH']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  281 is : Player 1
+Winning players hand : ['8C', '5H', 'AS', 'QD', 'AD']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  282 is : Player 2
+Winning players hand : ['QS', '4D', '6H', '2H', '2C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  283 is : Player 2
+Winning players hand : ['QD', 'AC', '7H', 'AD', '9D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  284 is : Player 2
+Winning players hand : ['KC', '8D', '7S', 'QH', '8C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  285 is : Player 2
+Winning players hand : ['AD', 'QS', '2H', '6S', '2D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  286 is : Player 1
+Winning players hand : ['JC', 'KH', '2D', '7D', 'JS']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  287 is : Player 1
+Winning players hand : ['TS', '3S', 'AD', '4S', 'TD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  288 is : Player 2
+Winning players hand : ['3D', 'KH', 'AS', 'AC', '9D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  289 is : Player 1
+Winning players hand : ['KH', '6S', '8H', '4S', 'KD']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  290 is : Player 1
+Winning players hand : ['JH', '5H', 'AH', 'KS', 'AS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  291 is : Player 1
+Winning players hand : ['5D', '7D', '6D', 'KS', 'KD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  292 is : Player 2
+Winning players hand : ['3H', '4H', '4D', 'TS', '2C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  293 is : Player 1
+Winning players hand : ['6H', 'KS', 'KH', '9D', '7C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  294 is : Player 2
+Winning players hand : ['TD', '8H', '3H', '4H', 'TH']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  295 is : Player 2
+Winning players hand : ['KS', '6H', '4H', 'AC', '8S']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  296 is : Player 2
+Winning players hand : ['TS', '6D', '6C', 'AC', 'KH']
+RANK P1 : 30. Rank P2 : 13 
+Winner of game  297 is : Player 1
+Winning players hand : ['QH', '7D', '7C', 'JH', 'QS']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  298 is : Player 2
+Winning players hand : ['2C', 'KS', '7H', '9C', '4H']
+RANK P1 : 10. Rank P2 : 30 
+Winner of game  299 is : Player 2
+Winning players hand : ['3S', 'QD', 'QC', '3H', 'KC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  300 is : Player 2
+Winning players hand : ['5S', '9D', '7D', '7H', 'TS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  301 is : Player 2
+Winning players hand : ['6C', 'TS', '2C', 'QD', 'TH']
+RANK P1 : 10. Rank P2 : 12 
+Winner of game  302 is : Player 2
+Winning players hand : ['QH', '8S', '9C', '2H', '5H']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  303 is : Player 2
+Winning players hand : ['KH', '3H', '7C', '2H', '5S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  304 is : Player 2
+Winning players hand : ['2S', '6S', '6C', '3C', '8S']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  305 is : Player 1
+Winning players hand : ['4D', 'KH', '8H', '4H', '2D']
+RANK P1 : 10. Rank P2 : 13 
+Winner of game  306 is : Player 2
+Winning players hand : ['6H', 'JD', 'KC', '9C', '8D']
+RANK P1 : 12. Rank P2 : 30 
+Winner of game  307 is : Player 2
+Winning players hand : ['5H', '8S', '8H', 'TH', 'TD']
+RANK P1 : 30. Rank P2 : 13 
+Winner of game  308 is : Player 1
+Winning players hand : ['QS', '7S', 'TD', '7D', 'TS']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  309 is : Player 2
+Winning players hand : ['2S', 'TD', 'AS', '4D', 'AC']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  310 is : Player 1
+Winning players hand : ['AH', 'KS', '6C', '4C', '4S']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  311 is : Player 2
+Winning players hand : ['KD', '4D', '4S', 'AC', '5D']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  312 is : Player 1
+Winning players hand : ['2D', 'TS', '2C', 'JS', 'KH']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  313 is : Player 2
+Winning players hand : ['7S', 'KH', '6H', '9S', 'AC']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  314 is : Player 2
+Winning players hand : ['2S', '2H', '4H', '5D', '5H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  315 is : Player 1
+Winning players hand : ['5H', 'JC', 'QD', '2C', '2S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  316 is : Player 2
+Winning players hand : ['9D', '2C', '7D', 'JH', '9S']
+RANK P1 : 14. Rank P2 : 40 
+Winner of game  317 is : Player 2
+Winning players hand : ['TD', '3H', 'TH', '7C', 'TS']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  318 is : Player 2
+Winning players hand : ['8D', '9D', '9C', 'AH', '7D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  319 is : Player 1
+Winning players hand : ['6D', 'JS', '5C', 'QD', 'QC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  320 is : Player 2
+Winning players hand : ['AH', 'KC', '8S', '6D', '6H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  321 is : Player 1
+Winning players hand : ['3D', '7C', '4C', '7S', '5S']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  322 is : Player 1
+Winning players hand : ['QH', '7C', '5H', '3C', '3S']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  323 is : Player 1
+Winning players hand : ['QD', '3S', '7S', '5H', '7H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  324 is : Player 1
+Winning players hand : ['3C', 'KD', 'KH', '2S', '4C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  325 is : Player 2
+Winning players hand : ['4D', '5H', '5S', '7S', 'QD']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  326 is : Player 2
+Winning players hand : ['9D', 'KS', '6H', 'KD', '3C']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  327 is : Player 1
+Winning players hand : ['QS', '4D', 'TS', '7S', '4C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  328 is : Player 2
+Winning players hand : ['9H', '9D', 'QS', '8S', '6H']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  329 is : Player 2
+Winning players hand : ['2D', '6C', 'QH', '6S', 'TH']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  330 is : Player 1
+Winning players hand : ['4C', '4H', 'AS', 'JS', '5D']
+RANK P1 : 9. Rank P2 : 20 
+Winner of game  331 is : Player 2
+Winning players hand : ['QS', 'AD', 'AS', '6H', '3C']
+RANK P1 : 9. Rank P2 : 14 
+Winner of game  332 is : Player 2
+Winning players hand : ['7C', 'AS', '9H', 'JD', 'KH']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  333 is : Player 1
+Winning players hand : ['3D', '3H', '7S', '4D', '6C']
+RANK P1 : 14. Rank P2 : 40 
+Winner of game  334 is : Player 2
+Winning players hand : ['TH', '9C', '9H', '9S', '8D']
+RANK P1 : 9. Rank P2 : 12 
+Winner of game  335 is : Player 2
+Winning players hand : ['2H', 'QD', '6S', '5D', '3S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  336 is : Player 1
+Winning players hand : ['4C', '5C', 'JD', 'QS', '4D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  337 is : Player 2
+Winning players hand : ['4C', 'KS', '4H', 'JD', '6D']
+RANK P1 : 14. Rank P2 : 30 
+Winner of game  338 is : Player 2
+Winning players hand : ['2S', 'JS', 'JH', '5H', '2H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  339 is : Player 1
+Winning players hand : ['2H', '5S', 'TH', '6S', 'TS']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  340 is : Player 2
+Winning players hand : ['JH', '6D', '7D', 'JS', 'TD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  341 is : Player 2
+Winning players hand : ['JH', 'JC', '2D', 'TH', '7S']
+RANK P1 : 9. Rank P2 : 14 
+Winner of game  342 is : Player 2
+Winning players hand : ['TC', 'AH', 'JC', 'KD', '9C']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  343 is : Player 2
+Winning players hand : ['KH', 'TS', '9S', 'QH', 'TH']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  344 is : Player 2
+Winning players hand : ['3H', 'TH', 'TC', '9C', 'KC']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  345 is : Player 1
+Winning players hand : ['AS', '3D', '9H', '7D', '4D']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  346 is : Player 2
+Winning players hand : ['TS', '8S', '2H', 'QD', '8D']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  347 is : Player 2
+Winning players hand : ['2S', 'QC', 'AC', '6S', '3S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  348 is : Player 1
+Winning players hand : ['JC', 'AS', 'AD', 'QS', '8H']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  349 is : Player 1
+Winning players hand : ['2S', '3D', 'TS', 'TD', '9S']
+RANK P1 : 13. Rank P2 : 50 
+Winner of game  350 is : Player 2
+Winning players hand : ['JH', 'QD', 'TH', 'KH', 'AD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  351 is : Player 2
+Winning players hand : ['8D', 'JH', 'JC', '7C', 'QS']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  352 is : Player 2
+Winning players hand : ['QD', 'QH', '2S', '3S', 'KS']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  353 is : Player 2
+Winning players hand : ['TD', 'JS', 'QD', '9D', 'JD']
+RANK P1 : 30. Rank P2 : 14 
+Winner of game  354 is : Player 1
+Winning players hand : ['5H', '8H', 'KH', '8S', 'KS']
+RANK P1 : 14. Rank P2 : 50 
+Winner of game  355 is : Player 2
+Winning players hand : ['6C', '7D', '8S', '5H', '9C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  356 is : Player 2
+Winning players hand : ['QS', '5S', 'QH', '3C', 'KC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  357 is : Player 2
+Winning players hand : ['AS', 'JH', '7H', '6H', 'JD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  358 is : Player 1
+Winning players hand : ['9D', '5C', '9H', 'KC', '8H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  359 is : Player 2
+Winning players hand : ['7C', '5S', '6S', '5H', 'TS']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  360 is : Player 1
+Winning players hand : ['6D', '9S', 'KC', 'TD', '3S']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  361 is : Player 1
+Winning players hand : ['5H', '9D', 'TS', 'KD', '8D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  362 is : Player 2
+Winning players hand : ['9S', 'AS', 'TD', '9H', 'QD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  363 is : Player 2
+Winning players hand : ['9S', 'TD', 'QC', '7D', 'TC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  364 is : Player 2
+Winning players hand : ['9C', '8S', 'JS', '9D', '7D']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  365 is : Player 1
+Winning players hand : ['3C', 'KC', '6D', '5D', '6C']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  366 is : Player 2
+Winning players hand : ['8H', '9H', 'AD', 'TH', 'KH']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  367 is : Player 1
+Winning players hand : ['QC', 'AS', '2S', 'JS', '5C']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  368 is : Player 1
+Winning players hand : ['QD', '8H', '2S', '8D', '3S']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  369 is : Player 1
+Winning players hand : ['JD', 'JS', 'TS', '8S', '3H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  370 is : Player 2
+Winning players hand : ['AH', 'JC', '7C', '7D', '4H']
+RANK P1 : 9. Rank P2 : 13 
+Winner of game  371 is : Player 2
+Winning players hand : ['9H', 'JH', 'KH', '5S', '2C']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  372 is : Player 2
+Winning players hand : ['QC', 'QD', '4C', 'AC', 'JD']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  373 is : Player 2
+Winning players hand : ['3S', 'QS', '2D', 'AS', 'KH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  374 is : Player 2
+Winning players hand : ['TD', 'TH', 'QH', '9S', '4D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  375 is : Player 1
+Winning players hand : ['6D', '3S', 'TS', '6H', '4H']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  376 is : Player 2
+Winning players hand : ['5D', 'KH', '6H', '6S', 'JS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  377 is : Player 2
+Winning players hand : ['KH', 'QC', 'TH', 'QD', 'AH']
+RANK P1 : 13. Rank P2 : 11 
+Winner of game  378 is : Player 1
+Winning players hand : ['6S', 'KH', '9S', '2C', '5H']
+RANK P1 : 11. Rank P2 : 30 
+Winner of game  379 is : Player 2
+Winning players hand : ['7H', '7S', '4D', '4C', '2H']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  380 is : Player 2
+Winning players hand : ['7C', 'TS', 'TC', '7S', '5H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  381 is : Player 1
+Winning players hand : ['4C', '8D', 'QC', 'TS', '4S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  382 is : Player 1
+Winning players hand : ['8C', 'QS', '5C', '5D', '3H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  383 is : Player 2
+Winning players hand : ['JH', 'KH', '2D', 'QD', 'JS']
+RANK P1 : 12. Rank P2 : 10 
+Winner of game  384 is : Player 1
+Winning players hand : ['JD', 'QC', '5D', '6S', '9H']
+RANK P1 : 14. Rank P2 : 50 
+Winner of game  385 is : Player 2
+Winning players hand : ['5C', '2D', '6D', '4H', '3D']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  386 is : Player 2
+Winning players hand : ['AD', 'QD', '9C', '3S', 'TD']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  387 is : Player 2
+Winning players hand : ['7D', 'QD', '6D', '3C', 'AS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  388 is : Player 2
+Winning players hand : ['5S', '5C', 'JS', 'QC', '4S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  389 is : Player 2
+Winning players hand : ['5S', '7D', 'JH', 'QD', 'JS']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  390 is : Player 2
+Winning players hand : ['5D', '7H', '3D', 'QH', 'AD']
+RANK P1 : 10. Rank P2 : 14 
+Winner of game  391 is : Player 2
+Winning players hand : ['2D', '7C', 'AD', 'KH', '5D']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  392 is : Player 2
+Winning players hand : ['AH', '2S', '5C', 'KH', 'TD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  393 is : Player 2
+Winning players hand : ['6C', '2H', '2S', '9H', '7C']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  394 is : Player 1
+Winning players hand : ['KD', 'JS', 'QC', 'TS', 'QS']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  395 is : Player 2
+Winning players hand : ['3H', '2H', 'AD', '7D', '7S']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  396 is : Player 2
+Winning players hand : ['7D', '2S', '9H', '7C', '2H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  397 is : Player 2
+Winning players hand : ['AD', 'AS', '8H', '5H', '6C']
+RANK P1 : 30. Rank P2 : 11 
+Winner of game  398 is : Player 1
+Winning players hand : ['2S', '7H', '6C', '6D', '7D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  399 is : Player 2
+Winning players hand : ['KD', '3S', 'KH', 'AD', '4S']
+RANK P1 : 14. Rank P2 : 40 
+Winner of game  400 is : Player 2
+Winning players hand : ['KS', 'KD', 'TS', 'KH', '5H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  401 is : Player 2
+Winning players hand : ['7D', 'TD', 'AD', '7S', 'KC']
+RANK P1 : 30. Rank P2 : 13 
+Winner of game  402 is : Player 1
+Winning players hand : ['JS', '8S', '5S', 'JC', '8H']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  403 is : Player 2
+Winning players hand : ['QH', 'JS', '5H', '8D', 'KH']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  404 is : Player 1
+Winning players hand : ['TD', '2S', 'KS', '3D', 'AD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  405 is : Player 2
+Winning players hand : ['9S', 'QD', 'TH', 'QH', '5C']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  406 is : Player 2
+Winning players hand : ['KC', 'JD', 'KS', '6C', 'JC']
+RANK P1 : 11. Rank P2 : 30 
+Winner of game  407 is : Player 2
+Winning players hand : ['QD', '7S', '7D', 'QH', 'TS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  408 is : Player 2
+Winning players hand : ['9D', 'QS', '8H', '6C', '9S']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  409 is : Player 2
+Winning players hand : ['4D', 'QS', '6D', 'TH', '6S']
+RANK P1 : 9. Rank P2 : 30 
+Winner of game  410 is : Player 2
+Winning players hand : ['4C', '7D', 'TC', '7C', 'TD']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  411 is : Player 1
+Winning players hand : ['AH', '6S', 'AS', '7H', '5S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  412 is : Player 1
+Winning players hand : ['8D', '8S', 'AH', 'KS', 'QS']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  413 is : Player 1
+Winning players hand : ['6H', '9H', '9S', '2H', 'QS']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  414 is : Player 2
+Winning players hand : ['7S', 'TH', '9S', '9H', 'AC']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  415 is : Player 1
+Winning players hand : ['7H', '3H', '6S', 'KC', '4D']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  416 is : Player 2
+Winning players hand : ['JH', '9D', '4H', '7S', '7H']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  417 is : Player 2
+Winning players hand : ['2S', 'AS', '2D', '6D', '7D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  418 is : Player 2
+Winning players hand : ['AD', 'KC', 'TH', '9C', 'KH']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  419 is : Player 1
+Winning players hand : ['TC', '4C', '2C', '9S', '9D']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  420 is : Player 2
+Winning players hand : ['8D', '6H', 'QC', '6S', '8C']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  421 is : Player 2
+Winning players hand : ['8S', 'QH', '4C', '5S', '8D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  422 is : Player 2
+Winning players hand : ['3D', '7C', '2D', '8S', '2H']
+RANK P1 : 10. Rank P2 : 9 
+Winner of game  423 is : Player 1
+Winning players hand : ['4H', '6C', '8S', 'TH', '2H']
+RANK P1 : 60. Rank P2 : 14 
+Winner of game  424 is : Player 1
+Winning players hand : ['7C', '4C', '9C', '2C', '5C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  425 is : Player 2
+Winning players hand : ['8D', '5D', '9S', '8C', '2H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  426 is : Player 1
+Winning players hand : ['QC', 'KD', 'AC', 'AD', '2H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  427 is : Player 2
+Winning players hand : ['QD', 'QS', '5D', 'KH', '3C']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  428 is : Player 2
+Winning players hand : ['5S', 'AD', '7H', '3S', 'AS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  429 is : Player 2
+Winning players hand : ['6D', 'AS', '9S', 'AC', 'QS']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  430 is : Player 2
+Winning players hand : ['8S', '6H', '9D', '8D', '6C']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  431 is : Player 2
+Winning players hand : ['6D', 'KS', '3S', '8C', 'AS']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  432 is : Player 1
+Winning players hand : ['3H', '6S', 'TC', '8D', 'TS']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  433 is : Player 1
+Winning players hand : ['8C', 'QC', '4H', '4S', '8S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  434 is : Player 2
+Winning players hand : ['6S', 'TS', 'QC', 'AD', 'TC']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  435 is : Player 1
+Winning players hand : ['QD', 'QC', '8S', '4S', 'TH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  436 is : Player 2
+Winning players hand : ['3C', '9D', 'QD', 'QH', '7D']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  437 is : Player 1
+Winning players hand : ['KC', '9H', '6C', 'KD', '7S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  438 is : Player 2
+Winning players hand : ['7D', 'TH', 'QC', '3H', '3C']
+RANK P1 : 9. Rank P2 : 20 
+Winner of game  439 is : Player 2
+Winning players hand : ['8C', '4C', '4H', '3C', 'TH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  440 is : Player 1
+Winning players hand : ['JC', 'TH', '4S', '6S', 'JD']
+RANK P1 : 14. Rank P2 : 30 
+Winner of game  441 is : Player 2
+Winning players hand : ['2C', '6S', '2H', 'JH', '6H']
+RANK P1 : 30. Rank P2 : 14 
+Winner of game  442 is : Player 1
+Winning players hand : ['TD', '8S', 'AD', 'TC', 'AH']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  443 is : Player 2
+Winning players hand : ['9H', '5S', '7H', 'QH', 'AH']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  444 is : Player 2
+Winning players hand : ['5H', '3H', 'AD', 'AS', 'JS']
+RANK P1 : 8. Rank P2 : 20 
+Winner of game  445 is : Player 2
+Winning players hand : ['7S', 'AD', '5D', '5C', '8S']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  446 is : Player 2
+Winning players hand : ['5H', '6C', '8C', '4C', '8S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  447 is : Player 2
+Winning players hand : ['QS', 'JC', '3D', 'QC', '7C']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  448 is : Player 1
+Winning players hand : ['JC', '9C', 'KH', 'JH', 'QS']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  449 is : Player 1
+Winning players hand : ['5D', 'JH', 'AC', '5C', '9S']
+RANK P1 : 20. Rank P2 : 50 
+Winner of game  450 is : Player 2
+Winning players hand : ['2C', '5S', '4D', '3D', '6H']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  451 is : Player 2
+Winning players hand : ['3D', '8C', 'QH', '7S', '3S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  452 is : Player 2
+Winning players hand : ['KH', 'KS', '3C', '9S', '6D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  453 is : Player 2
+Winning players hand : ['AC', '7H', 'KH', '4D', 'KD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  454 is : Player 1
+Winning players hand : ['AH', 'AD', 'TH', '6D', '9C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  455 is : Player 1
+Winning players hand : ['QD', '6H', '9C', '7C', 'QS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  456 is : Player 2
+Winning players hand : ['JC', 'KS', '4H', 'KH', '5S']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  457 is : Player 2
+Winning players hand : ['8C', '3D', 'AS', 'KC', 'AH']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  458 is : Player 2
+Winning players hand : ['5S', '8C', 'TH', '5C', '4C']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  459 is : Player 1
+Winning players hand : ['QC', 'QS', '8C', '2S', '2C']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  460 is : Player 1
+Winning players hand : ['2D', '5D', '8S', 'AH', 'AD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  461 is : Player 2
+Winning players hand : ['9H', '6H', 'JD', '4H', '9S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  462 is : Player 2
+Winning players hand : ['4S', '2H', '4C', '8D', 'AC']
+RANK P1 : 10. Rank P2 : 30 
+Winner of game  463 is : Player 2
+Winning players hand : ['QD', 'QS', '7S', 'TC', '7C']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  464 is : Player 2
+Winning players hand : ['JS', 'QD', 'JH', '4H', '4S']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  465 is : Player 2
+Winning players hand : ['TS', 'QC', '8C', 'TC', '4H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  466 is : Player 1
+Winning players hand : ['QH', '9D', '4D', 'JH', 'QS']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  467 is : Player 1
+Winning players hand : ['4H', '9S', 'JD', '5C', '5H']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  468 is : Player 2
+Winning players hand : ['AH', 'JS', '7H', 'AS', '8D']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  469 is : Player 1
+Winning players hand : ['JS', 'AH', '8C', 'AD', 'KS']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  470 is : Player 1
+Winning players hand : ['2H', '5D', 'AD', 'AC', 'KS']
+RANK P1 : 10. Rank P2 : 40 
+Winner of game  471 is : Player 2
+Winning players hand : ['JS', 'JH', '6S', 'JD', '4C']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  472 is : Player 2
+Winning players hand : ['3C', '5D', '4C', 'QS', 'KC']
+RANK P1 : 40. Rank P2 : 20 
+Winner of game  473 is : Player 1
+Winning players hand : ['6H', '4H', '6C', '7H', '6S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  474 is : Player 2
+Winning players hand : ['TD', 'AD', '3S', '4D', 'TS']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  475 is : Player 1
+Winning players hand : ['5S', '7C', '8S', '7D', '2C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  476 is : Player 2
+Winning players hand : ['QD', '5H', '6D', '9C', '9H']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  477 is : Player 2
+Winning players hand : ['TD', 'TS', 'AC', '8C', '9D']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  478 is : Player 1
+Winning players hand : ['5H', 'QD', '2S', 'AC', '8C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  479 is : Player 2
+Winning players hand : ['JS', 'QS', '4S', 'AD', '4D']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  480 is : Player 1
+Winning players hand : ['AS', '2S', 'TD', 'AD', '4D']
+RANK P1 : 10. Rank P2 : 13 
+Winner of game  481 is : Player 2
+Winning players hand : ['6C', 'JS', '4S', 'KC', '3S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  482 is : Player 2
+Winning players hand : ['3D', 'JD', '8S', 'QS', 'QH']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  483 is : Player 2
+Winning players hand : ['6D', 'TC', 'KD', 'AC', 'AH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  484 is : Player 2
+Winning players hand : ['AC', '8D', '5C', 'AD', 'KH']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  485 is : Player 1
+Winning players hand : ['5S', '4C', 'AC', 'KH', 'AS']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  486 is : Player 2
+Winning players hand : ['5C', '9C', 'QD', 'QH', '9D']
+RANK P1 : 10. Rank P2 : 12 
+Winner of game  487 is : Player 2
+Winning players hand : ['TD', 'JC', '9C', '5H', 'QH']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  488 is : Player 2
+Winning players hand : ['6C', 'AS', 'KS', '7S', 'JD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  489 is : Player 1
+Winning players hand : ['JH', '7C', '9H', '7H', 'TC']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  490 is : Player 1
+Winning players hand : ['2C', 'QD', 'JH', '2H', '9D']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  491 is : Player 2
+Winning players hand : ['7D', '6S', 'QS', 'KS', '4H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  492 is : Player 1
+Winning players hand : ['TC', 'KS', '5S', '8D', '8H']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  493 is : Player 2
+Winning players hand : ['QS', '9D', '4C', 'KD', '9S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  494 is : Player 1
+Winning players hand : ['AC', 'KH', '3H', 'AS', '9D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  495 is : Player 1
+Winning players hand : ['9H', '7S', '3D', '5C', '7D']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  496 is : Player 2
+Winning players hand : ['4D', '7S', '6S', 'QH', '6C']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  497 is : Player 1
+Winning players hand : ['6D', 'AD', '4C', 'QD', '6C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  498 is : Player 1
+Winning players hand : ['JH', '2H', 'JD', '9S', '7S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  499 is : Player 1
+Winning players hand : ['2D', '9S', '4C', '7D', '9D']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  500 is : Player 1
+Winning players hand : ['7S', '6D', 'JC', 'QD', 'JH']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  501 is : Player 1
+Winning players hand : ['8C', 'TD', 'JH', 'KD', '2H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  502 is : Player 2
+Winning players hand : ['3S', '5S', '5D', '8S', 'KH']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  503 is : Player 2
+Winning players hand : ['JH', '6S', '9C', '6D', 'JC']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  504 is : Player 1
+Winning players hand : ['5H', 'AH', 'JD', '9C', 'JS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  505 is : Player 2
+Winning players hand : ['9C', '8S', '8C', 'TD', '7C']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  506 is : Player 1
+Winning players hand : ['KC', '2C', 'QD', '9C', 'KH']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  507 is : Player 2
+Winning players hand : ['TD', '9S', 'QD', '3S', '3C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  508 is : Player 2
+Winning players hand : ['6S', '2S', 'JD', 'QH', 'JS']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  509 is : Player 2
+Winning players hand : ['7H', '5D', '6S', '8H', 'AH']
+RANK P1 : 8. Rank P2 : 20 
+Winner of game  510 is : Player 2
+Winning players hand : ['QS', 'QH', '7S', '4H', 'AC']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  511 is : Player 2
+Winning players hand : ['3S', 'AH', 'KS', '9D', '7C']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  512 is : Player 1
+Winning players hand : ['AD', '5S', '6S', '2H', '2D']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  513 is : Player 2
+Winning players hand : ['KS', 'JH', 'AS', '8S', '6D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  514 is : Player 2
+Winning players hand : ['AS', 'TC', 'TS', '6C', 'KC']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  515 is : Player 2
+Winning players hand : ['7C', '4C', '5S', 'TH', 'TD']
+RANK P1 : 30. Rank P2 : 40 
+Winner of game  516 is : Player 2
+Winning players hand : ['5D', '5H', '5S', '2D', '9C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  517 is : Player 2
+Winning players hand : ['QC', '7C', '9C', 'KD', 'KS']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  518 is : Player 2
+Winning players hand : ['5C', 'AS', 'QD', '6C', '2C']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  519 is : Player 2
+Winning players hand : ['AC', '8D', '5C', '2S', '4D']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  520 is : Player 2
+Winning players hand : ['3S', 'KS', '3C', '9H', 'TD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  521 is : Player 2
+Winning players hand : ['5H', '3S', '6C', '6H', '8C']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  522 is : Player 2
+Winning players hand : ['TH', '4H', '5D', 'TS', '4D']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  523 is : Player 2
+Winning players hand : ['2H', '7D', 'AC', 'QD', '3D']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  524 is : Player 2
+Winning players hand : ['4H', 'TD', '3H', 'JH', '4C']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  525 is : Player 1
+Winning players hand : ['7S', '5H', '7H', '8H', 'KH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  526 is : Player 1
+Winning players hand : ['5H', 'AD', 'KD', '7C', 'KH']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  527 is : Player 2
+Winning players hand : ['KC', 'KH', '7H', '2H', '3S']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  528 is : Player 1
+Winning players hand : ['7S', '4H', 'AD', '4D', '8S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  529 is : Player 1
+Winning players hand : ['8D', 'TC', 'KS', 'KD', '9S']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  530 is : Player 2
+Winning players hand : ['6H', '9D', 'TC', '9S', '7C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  531 is : Player 2
+Winning players hand : ['3C', 'TH', 'KH', 'JS', 'JH']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  532 is : Player 2
+Winning players hand : ['AS', 'AD', '8H', '7S', 'KD']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  533 is : Player 2
+Winning players hand : ['AS', 'AD', '9C', '9S', 'JS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  534 is : Player 1
+Winning players hand : ['AD', 'AC', '2C', '6S', 'QD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  535 is : Player 2
+Winning players hand : ['KH', '7S', 'TS', '8C', 'KC']
+RANK P1 : 7. Rank P2 : 14 
+Winner of game  536 is : Player 2
+Winning players hand : ['7D', 'KS', '5C', '6D', 'AD']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  537 is : Player 2
+Winning players hand : ['7S', '2H', '6C', '7D', 'TD']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  538 is : Player 1
+Winning players hand : ['QS', '5S', 'TD', 'AC', '9D']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  539 is : Player 2
+Winning players hand : ['4C', '7H', '5D', 'KC', '3D']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  540 is : Player 2
+Winning players hand : ['5S', 'QC', '9H', 'TC', '5H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  541 is : Player 1
+Winning players hand : ['9C', 'QD', 'TH', '5H', 'TS']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  542 is : Player 2
+Winning players hand : ['3D', '2C', '2H', 'TD', 'TH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  543 is : Player 2
+Winning players hand : ['AD', '8D', '6D', '8C', 'KC']
+RANK P1 : 20. Rank P2 : 50 
+Winner of game  544 is : Player 2
+Winning players hand : ['8H', '7S', '9S', 'TD', 'JC']
+RANK P1 : 12. Rank P2 : 70 
+Winner of game  545 is : Player 2
+Winning players hand : ['TH', 'TD', 'TC', 'KD', 'KS']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  546 is : Player 2
+Winning players hand : ['AS', 'KH', '5H', '5C', '8S']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  547 is : Player 2
+Winning players hand : ['8S', '5D', '7S', '7H', '9D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  548 is : Player 2
+Winning players hand : ['TS', '2C', '7D', 'KD', 'TC']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  549 is : Player 2
+Winning players hand : ['8D', '4S', 'KH', 'JD', 'KD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  550 is : Player 1
+Winning players hand : ['AS', '5C', 'AD', 'QH', '7D']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  551 is : Player 2
+Winning players hand : ['6C', '6D', 'AD', '5D', 'QC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  552 is : Player 2
+Winning players hand : ['AH', 'TC', '4H', 'JS', 'TD']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  553 is : Player 1
+Winning players hand : ['2C', 'TS', '4D', '7H', '2D']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  554 is : Player 2
+Winning players hand : ['JH', '5C', '5H', '9H', '4S']
+RANK P1 : 14. Rank P2 : 30 
+Winner of game  555 is : Player 2
+Winning players hand : ['8S', '2H', '4C', '4H', '8D']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  556 is : Player 1
+Winning players hand : ['JS', '6S', 'AC', 'KD', '3D']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  557 is : Player 2
+Winning players hand : ['4H', '3C', 'QD', '3S', '3H']
+RANK P1 : 14. Rank P2 : 10 
+Winner of game  558 is : Player 1
+Winning players hand : ['7H', 'AS', 'KH', '8C', '4H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  559 is : Player 2
+Winning players hand : ['2C', '3D', 'AD', 'AC', '5H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  560 is : Player 1
+Winning players hand : ['JH', 'TD', '2D', '4C', 'TS']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  561 is : Player 1
+Winning players hand : ['AS', '4C', '5H', '4D', '6S']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  562 is : Player 2
+Winning players hand : ['4S', 'AH', 'QH', 'AD', '5H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  563 is : Player 1
+Winning players hand : ['7C', '2S', '9H', '7H', 'KC']
+RANK P1 : 12. Rank P2 : 11 
+Winner of game  564 is : Player 1
+Winning players hand : ['3C', 'TC', '9C', '4H', 'QD']
+RANK P1 : 30. Rank P2 : 14 
+Winner of game  565 is : Player 1
+Winning players hand : ['7C', '6S', '5C', '5D', '6C']
+RANK P1 : 20. Rank P2 : 9 
+Winner of game  566 is : Player 1
+Winning players hand : ['AD', '2H', '7D', 'KC', '2C']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  567 is : Player 2
+Winning players hand : ['AD', 'KS', 'AS', 'JH', 'TD']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  568 is : Player 1
+Winning players hand : ['5C', 'TD', '4S', '4D', 'AD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  569 is : Player 1
+Winning players hand : ['8H', '3S', '4D', '4S', '5S']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  570 is : Player 1
+Winning players hand : ['9H', '3C', 'AC', '4S', 'QS']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  571 is : Player 1
+Winning players hand : ['JC', '6C', '5H', 'TS', 'AC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  572 is : Player 2
+Winning players hand : ['QC', 'QH', '6H', '3C', '8D']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  573 is : Player 2
+Winning players hand : ['QH', 'QS', '3H', '7C', '6D']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  574 is : Player 2
+Winning players hand : ['2H', '3S', '8C', 'JS', 'KH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  575 is : Player 2
+Winning players hand : ['JD', '3H', '7S', 'JC', 'AC']
+RANK P1 : 50. Rank P2 : 20 
+Winner of game  576 is : Player 1
+Winning players hand : ['3C', '2D', '4C', '5S', '6C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  577 is : Player 2
+Winning players hand : ['6D', '7H', 'AD', '8C', '6H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  578 is : Player 2
+Winning players hand : ['8H', 'KS', 'KH', 'AH', '6D']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  579 is : Player 1
+Winning players hand : ['AH', '7D', '3H', '8H', '8S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  580 is : Player 2
+Winning players hand : ['9S', 'KS', 'AS', '9D', 'QH']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  581 is : Player 2
+Winning players hand : ['QS', 'JC', 'AH', 'KD', '4C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  582 is : Player 2
+Winning players hand : ['TS', 'TD', '6H', 'QH', 'JD']
+RANK P1 : 12. Rank P2 : 30 
+Winner of game  583 is : Player 2
+Winning players hand : ['7S', '9C', '8S', '9D', '8D']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  584 is : Player 2
+Winning players hand : ['8C', '8D', '7H', '3H', '3D']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  585 is : Player 1
+Winning players hand : ['QS', 'KH', '3S', '2C', '2S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  586 is : Player 2
+Winning players hand : ['AC', 'AS', '7H', '4C', '6C']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  587 is : Player 2
+Winning players hand : ['QS', '8S', '2C', '2H', 'TD']
+RANK P1 : 10. Rank P2 : 30 
+Winner of game  588 is : Player 2
+Winning players hand : ['4H', 'JC', '4C', '5D', '5S']
+RANK P1 : 7. Rank P2 : 20 
+Winner of game  589 is : Player 2
+Winning players hand : ['QH', 'JC', 'JS', '6D', '8H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  590 is : Player 1
+Winning players hand : ['4C', 'QH', '7C', 'QD', '3S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  591 is : Player 1
+Winning players hand : ['9H', 'TC', '2S', 'TD', 'JC']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  592 is : Player 2
+Winning players hand : ['8H', '6S', '3S', 'KC', '3H']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  593 is : Player 2
+Winning players hand : ['TH', '6H', '2C', 'AC', '5H']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  594 is : Player 2
+Winning players hand : ['6S', '6C', '2S', '8C', '8S']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  595 is : Player 2
+Winning players hand : ['KD', 'QS', 'AC', '7S', '3C']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  596 is : Player 2
+Winning players hand : ['KS', '9S', 'QC', '3S', 'AS']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  597 is : Player 2
+Winning players hand : ['9H', 'KC', '3H', '7D', 'KD']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  598 is : Player 1
+Winning players hand : ['2H', 'KH', '7C', '4D', '4S']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  599 is : Player 1
+Winning players hand : ['4C', 'JC', 'AS', '9D', '3C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  600 is : Player 2
+Winning players hand : ['3D', 'JH', '6D', '9C', '9H']
+RANK P1 : 9. Rank P2 : 13 
+Winner of game  601 is : Player 2
+Winning players hand : ['KS', '6H', '9C', '2S', 'TC']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  602 is : Player 1
+Winning players hand : ['6C', '8C', 'AD', '7H', '6H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  603 is : Player 1
+Winning players hand : ['KS', '8C', '3S', 'TS', '8S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  604 is : Player 1
+Winning players hand : ['9H', '4S', '4H', '5C', '7D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  605 is : Player 1
+Winning players hand : ['5C', 'JS', 'TC', '9D', '9H']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  606 is : Player 2
+Winning players hand : ['KH', 'JD', '2H', 'TD', 'TC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  607 is : Player 2
+Winning players hand : ['6H', '9D', 'QS', 'QH', '5H']
+RANK P1 : 14. Rank P2 : 40 
+Winner of game  608 is : Player 2
+Winning players hand : ['JC', '2D', '8D', 'JD', 'JH']
+RANK P1 : 40. Rank P2 : 13 
+Winner of game  609 is : Player 1
+Winning players hand : ['2H', 'JC', '2D', '7H', '2C']
+RANK P1 : 10. Rank P2 : 30 
+Winner of game  610 is : Player 2
+Winning players hand : ['3H', 'TD', '3D', '6H', 'TH']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  611 is : Player 1
+Winning players hand : ['JH', 'JC', '3S', 'AC', 'QH']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  612 is : Player 2
+Winning players hand : ['9C', '2S', '5D', '4D', '2H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  613 is : Player 2
+Winning players hand : ['8H', '6H', 'KC', 'JC', 'KS']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  614 is : Player 2
+Winning players hand : ['6C', '9S', '3D', '8D', 'AC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  615 is : Player 2
+Winning players hand : ['8D', '8S', '4H', 'AD', '2C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  616 is : Player 2
+Winning players hand : ['TS', 'AS', 'TC', '3C', '5D']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  617 is : Player 2
+Winning players hand : ['6C', '4S', '2H', '3D', 'AD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  618 is : Player 2
+Winning players hand : ['3C', '4D', '2D', '9H', '9S']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  619 is : Player 2
+Winning players hand : ['9H', '5S', 'AH', '8S', 'AC']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  620 is : Player 2
+Winning players hand : ['9C', '4H', '8H', 'QS', '4C']
+RANK P1 : 8. Rank P2 : 20 
+Winner of game  621 is : Player 2
+Winning players hand : ['9C', 'KC', '6S', 'QD', 'QS']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  622 is : Player 2
+Winning players hand : ['JS', '8C', '6S', '4H', '4S']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  623 is : Player 2
+Winning players hand : ['KH', '3H', 'TH', '8C', '5D']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  624 is : Player 1
+Winning players hand : ['2C', 'KH', '5S', '3S', '7S']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  625 is : Player 1
+Winning players hand : ['8H', 'KS', 'AC', '2D', 'KH']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  626 is : Player 2
+Winning players hand : ['AH', '6C', '5H', '9S', '7C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  627 is : Player 2
+Winning players hand : ['7C', '7S', 'AH', 'QD', 'TD']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  628 is : Player 2
+Winning players hand : ['TS', 'AH', '7S', '9D', '3H']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  629 is : Player 2
+Winning players hand : ['7S', '7C', '6H', '8C', 'TD']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  630 is : Player 2
+Winning players hand : ['7D', 'JD', 'AH', '9C', '4H']
+RANK P1 : 14. Rank P2 : 30 
+Winner of game  631 is : Player 2
+Winning players hand : ['QC', 'QH', '9H', '2H', '2C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  632 is : Player 2
+Winning players hand : ['7S', 'TH', '4H', 'QS', 'TD']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  633 is : Player 1
+Winning players hand : ['3C', 'KD', '2H', '3H', 'QS']
+RANK P1 : 50. Rank P2 : 20 
+Winner of game  634 is : Player 1
+Winning players hand : ['KS', 'JC', 'QD', 'TH', '9S']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  635 is : Player 2
+Winning players hand : ['8D', 'AH', 'AD', 'QC', '8S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  636 is : Player 2
+Winning players hand : ['KS', '6H', '4C', '7C', 'KC']
+RANK P1 : 10. Rank P2 : 14 
+Winner of game  637 is : Player 2
+Winning players hand : ['6H', 'AC', '7S', '4D', '2C']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  638 is : Player 2
+Winning players hand : ['6D', '5H', '9H', '4C', 'KH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  639 is : Player 2
+Winning players hand : ['3D', 'QD', 'KS', '4C', '4S']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  640 is : Player 1
+Winning players hand : ['JC', '3C', 'AC', '7C', 'JD']
+RANK P1 : 14. Rank P2 : 11 
+Winner of game  641 is : Player 1
+Winning players hand : ['JD', '6S', '5S', '2H', 'AS']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  642 is : Player 1
+Winning players hand : ['8D', 'TC', '5S', '9S', '8S']
+RANK P1 : 10. Rank P2 : 11 
+Winner of game  643 is : Player 2
+Winning players hand : ['8D', '7H', '4D', '5D', 'JS']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  644 is : Player 2
+Winning players hand : ['8S', '5C', '2H', '4H', 'AS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  645 is : Player 2
+Winning players hand : ['JD', 'KD', '5D', '2S', 'KC']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  646 is : Player 1
+Winning players hand : ['JD', '7H', '4S', '8H', '4C']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  647 is : Player 2
+Winning players hand : ['QC', '2S', '6C', 'QD', 'AD']
+RANK P1 : 11. Rank P2 : 30 
+Winner of game  648 is : Player 2
+Winning players hand : ['2H', 'AD', '5S', 'AC', '2S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  649 is : Player 2
+Winning players hand : ['9D', '3D', '4C', '4S', 'JH']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  650 is : Player 1
+Winning players hand : ['8D', '5H', '5D', '6H', '7S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  651 is : Player 2
+Winning players hand : ['7D', '5S', '5C', '8H', 'JD']
+RANK P1 : 8. Rank P2 : 20 
+Winner of game  652 is : Player 2
+Winning players hand : ['JD', 'TC', 'AD', '7H', '7S']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  653 is : Player 1
+Winning players hand : ['2S', '9D', 'TS', '4D', 'AC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  654 is : Player 2
+Winning players hand : ['3D', '5H', '6H', '8D', '5D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  655 is : Player 2
+Winning players hand : ['4C', '2S', '7C', '7H', 'KH']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  656 is : Player 1
+Winning players hand : ['AC', '2H', '3S', 'JC', '5C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  657 is : Player 2
+Winning players hand : ['JC', '8S', '5S', '2C', '5D']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  658 is : Player 1
+Winning players hand : ['7S', 'QH', '7H', '6C', 'QC']
+RANK P1 : 40. Rank P2 : 20 
+Winner of game  659 is : Player 1
+Winning players hand : ['2C', 'QD', '2S', '2H', 'JC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  660 is : Player 1
+Winning players hand : ['7C', '5C', '9C', '8S', '7D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  661 is : Player 2
+Winning players hand : ['KS', '7S', '9D', 'KH', '4C']
+RANK P1 : 10. Rank P2 : 14 
+Winner of game  662 is : Player 2
+Winning players hand : ['9D', '8D', '3S', 'QC', 'AH']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  663 is : Player 1
+Winning players hand : ['5S', 'KC', '6H', 'TC', '5H']
+RANK P1 : 14. Rank P2 : 9 
+Winner of game  664 is : Player 1
+Winning players hand : ['9C', 'KD', '4H', 'AD', 'TD']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  665 is : Player 2
+Winning players hand : ['4C', 'KD', 'KH', '4H', '9D']
+RANK P1 : 11. Rank P2 : 12 
+Winner of game  666 is : Player 2
+Winning players hand : ['QS', '2H', '9D', '7D', '3H']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  667 is : Player 2
+Winning players hand : ['QD', '5C', 'QS', '6H', 'AD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  668 is : Player 1
+Winning players hand : ['5H', 'TH', 'QC', '7H', 'TC']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  669 is : Player 2
+Winning players hand : ['2C', '3S', 'JC', 'KS', '5C']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  670 is : Player 2
+Winning players hand : ['3S', '3D', '9H', '3H', 'JS']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  671 is : Player 1
+Winning players hand : ['4S', '8C', '4D', '2D', '8H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  672 is : Player 1
+Winning players hand : ['9S', '2C', '9H', '4C', '8D']
+RANK P1 : 8. Rank P2 : 20 
+Winner of game  673 is : Player 2
+Winning players hand : ['5H', 'JC', 'AH', '9D', '9C']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  674 is : Player 2
+Winning players hand : ['3S', '3D', '4D', '7D', '6S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  675 is : Player 2
+Winning players hand : ['3D', 'JD', '7H', '3H', '4H']
+RANK P1 : 30. Rank P2 : 12 
+Winner of game  676 is : Player 1
+Winning players hand : ['9C', '9H', '4H', '4D', 'TH']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  677 is : Player 1
+Winning players hand : ['2H', 'AC', '8S', '4S', 'AD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  678 is : Player 2
+Winning players hand : ['TC', '3D', '8C', '8H', 'JD']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  679 is : Player 2
+Winning players hand : ['7C', 'JD', '9H', '9C', '6C']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  680 is : Player 1
+Winning players hand : ['AH', '6S', 'JS', 'JH', '5D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  681 is : Player 2
+Winning players hand : ['3S', '7D', 'TC', 'AH', 'TS']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  682 is : Player 1
+Winning players hand : ['TD', '8H', 'AS', '5D', 'AH']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  683 is : Player 1
+Winning players hand : ['KS', '4S', '7H', '4D', '8D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  684 is : Player 1
+Winning players hand : ['3H', 'KD', '4S', 'QD', 'QH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  685 is : Player 2
+Winning players hand : ['QS', '2D', 'KH', 'KS', '4D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  686 is : Player 1
+Winning players hand : ['3C', 'AD', 'JC', 'KD', 'JS']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  687 is : Player 2
+Winning players hand : ['AS', '7C', 'QD', '2S', 'JD']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  688 is : Player 2
+Winning players hand : ['AC', '5D', '9H', '8H', 'KS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  689 is : Player 2
+Winning players hand : ['6D', '5S', 'JD', '6C', '7C']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  690 is : Player 1
+Winning players hand : ['QS', 'KH', 'TD', 'QD', '2C']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  691 is : Player 1
+Winning players hand : ['9D', '9H', 'JH', 'TC', 'QH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  692 is : Player 1
+Winning players hand : ['6C', '3S', '3D', '2S', '4S']
+RANK P1 : 30. Rank P2 : 14 
+Winner of game  693 is : Player 1
+Winning players hand : ['2D', '6H', '6D', '2S', 'JC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  694 is : Player 2
+Winning players hand : ['TS', '7C', 'AC', '4S', '4H']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  695 is : Player 2
+Winning players hand : ['9D', 'KS', '2H', '2D', '4D']
+RANK P1 : 30. Rank P2 : 14 
+Winner of game  696 is : Player 1
+Winning players hand : ['4S', '9D', '6C', '6D', '9C']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  697 is : Player 1
+Winning players hand : ['JC', 'AH', '6C', 'TS', 'JD']
+RANK P1 : 40. Rank P2 : 12 
+Winner of game  698 is : Player 1
+Winning players hand : ['JC', 'JH', 'JD', '3S', '7S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  699 is : Player 2
+Winning players hand : ['JS', '7H', '9S', '2H', '7S']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  700 is : Player 2
+Winning players hand : ['AS', 'JD', '2C', 'KC', '6H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  701 is : Player 1
+Winning players hand : ['2C', 'AC', '5H', 'KD', '5S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  702 is : Player 1
+Winning players hand : ['JC', 'QH', '8D', '8S', 'TC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  703 is : Player 1
+Winning players hand : ['3H', 'JS', '8S', 'QD', 'JH']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  704 is : Player 1
+Winning players hand : ['6D', '4S', '4C', 'AH', '5H']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  705 is : Player 1
+Winning players hand : ['8H', 'AH', '2H', '3H', 'JS']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  706 is : Player 1
+Winning players hand : ['6S', '2H', 'KD', '5H', '8H']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  707 is : Player 1
+Winning players hand : ['2S', '7S', 'KC', 'QC', 'AH']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  708 is : Player 2
+Winning players hand : ['7S', '6C', '2H', '7C', '9D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  709 is : Player 1
+Winning players hand : ['3C', '6C', '5C', '5S', 'JD']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  710 is : Player 2
+Winning players hand : ['2D', 'TC', '2H', '5H', 'QS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  711 is : Player 2
+Winning players hand : ['9S', '9D', '3C', 'KD', '2H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  712 is : Player 1
+Winning players hand : ['4S', 'JS', 'QS', '3S', '4H']
+RANK P1 : 11. Rank P2 : 40 
+Winner of game  713 is : Player 2
+Winning players hand : ['5D', 'QH', 'QS', 'KH', 'QC']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  714 is : Player 2
+Winning players hand : ['8D', '5H', '8S', 'KH', '8C']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  715 is : Player 2
+Winning players hand : ['7H', 'AS', 'QC', 'JS', '5S']
+RANK P1 : 14. Rank P2 : 40 
+Winner of game  716 is : Player 2
+Winning players hand : ['2D', '6H', '6C', 'KC', '6S']
+RANK P1 : 9. Rank P2 : 20 
+Winner of game  717 is : Player 2
+Winning players hand : ['4D', 'KH', '8H', 'KD', '3D']
+RANK P1 : 14. Rank P2 : 11 
+Winner of game  718 is : Player 1
+Winning players hand : ['9C', 'TC', 'AC', 'JH', 'KH']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  719 is : Player 1
+Winning players hand : ['7S', '4H', '9D', 'AS', '4C']
+RANK P1 : 40. Rank P2 : 20 
+Winner of game  720 is : Player 1
+Winning players hand : ['3S', '8D', '8S', 'KS', '8C']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  721 is : Player 2
+Winning players hand : ['JS', 'QC', '9D', 'AC', '6H']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  722 is : Player 1
+Winning players hand : ['8S', '8C', '7C', 'JS', 'JD']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  723 is : Player 2
+Winning players hand : ['8S', '2D', 'JS', 'JH', '4C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  724 is : Player 2
+Winning players hand : ['KC', 'KH', '5H', 'QD', '4S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  725 is : Player 1
+Winning players hand : ['QD', '8C', '8D', '2D', '6S']
+RANK P1 : 30. Rank P2 : 13 
+Winner of game  726 is : Player 1
+Winning players hand : ['QH', 'QC', 'JS', '3D', '3C']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  727 is : Player 2
+Winning players hand : ['3H', 'QC', '5D', '2H', 'KC']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  728 is : Player 2
+Winning players hand : ['QD', 'QH', '6D', 'AH', '3D']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  729 is : Player 2
+Winning players hand : ['AC', 'QS', '5H', 'TS', 'JD']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  730 is : Player 2
+Winning players hand : ['AC', 'JS', 'QC', '6C', 'KC']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  731 is : Player 2
+Winning players hand : ['8S', 'AD', '4H', '7S', '9S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  732 is : Player 1
+Winning players hand : ['QD', '9H', 'QH', '5H', '4H']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  733 is : Player 2
+Winning players hand : ['4C', '2D', 'KH', '2C', 'JD']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  734 is : Player 1
+Winning players hand : ['2C', '9H', '2D', 'AH', '3H']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  735 is : Player 2
+Winning players hand : ['2S', '4S', '5H', 'AS', 'AH']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  736 is : Player 2
+Winning players hand : ['TC', '5C', '3S', 'AC', 'KH']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  737 is : Player 1
+Winning players hand : ['6D', '7H', 'AH', '7S', 'QC']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  738 is : Player 2
+Winning players hand : ['7D', 'JC', 'AS', '5S', 'KH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  739 is : Player 2
+Winning players hand : ['QD', 'KD', '9H', '6S', '6C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  740 is : Player 2
+Winning players hand : ['JS', 'JH', '4H', '2C', '9H']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  741 is : Player 2
+Winning players hand : ['7D', '9S', '3H', 'QS', '7S']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  742 is : Player 2
+Winning players hand : ['4H', '3S', '3H', '4D', 'QH']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  743 is : Player 1
+Winning players hand : ['JD', '2H', '5C', 'AS', '6C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  744 is : Player 2
+Winning players hand : ['JC', 'AD', '7D', '7H', '9H']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  745 is : Player 1
+Winning players hand : ['4H', 'TC', 'TS', '2C', '8C']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  746 is : Player 2
+Winning players hand : ['9H', '6D', 'KC', '9D', '9C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  747 is : Player 2
+Winning players hand : ['TH', 'QD', 'JC', '8D', '8H']
+RANK P1 : 30. Rank P2 : 12 
+Winner of game  748 is : Player 1
+Winning players hand : ['QC', '2C', '2S', 'QD', '9C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  749 is : Player 2
+Winning players hand : ['JC', 'TD', '3C', 'TC', '9H']
+RANK P1 : 10. Rank P2 : 8 
+Winner of game  750 is : Player 1
+Winning players hand : ['3C', 'TS', '8H', '5C', '4C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  751 is : Player 2
+Winning players hand : ['2C', '3S', 'AS', 'AH', 'QS']
+RANK P1 : 40. Rank P2 : 50 
+Winner of game  752 is : Player 2
+Winning players hand : ['4C', '6S', '7D', '5S', '3S']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  753 is : Player 2
+Winning players hand : ['QS', 'KD', 'KC', 'KS', 'AS']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  754 is : Player 1
+Winning players hand : ['4D', 'AH', 'KD', '9H', 'KS']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  755 is : Player 2
+Winning players hand : ['2H', 'JC', '9S', 'AH', 'QH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  756 is : Player 2
+Winning players hand : ['QD', '2H', 'QC', 'JH', '8H']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  757 is : Player 2
+Winning players hand : ['JH', '6H', '4C', '6S', '7D']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  758 is : Player 1
+Winning players hand : ['9C', 'JD', '9H', 'AH', 'JS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  759 is : Player 2
+Winning players hand : ['AD', '3D', 'AH', '8S', '9H']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  760 is : Player 2
+Winning players hand : ['5H', 'JH', 'JS', 'AH', 'AC']
+RANK P1 : 14. Rank P2 : 9 
+Winner of game  761 is : Player 1
+Winning players hand : ['8D', '3C', 'JD', '2H', 'AC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  762 is : Player 1
+Winning players hand : ['7C', 'JH', '9H', '6C', 'JS']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  763 is : Player 2
+Winning players hand : ['JS', 'JH', '9H', 'AD', 'QD']
+RANK P1 : 14. Rank P2 : 10 
+Winner of game  764 is : Player 1
+Winning players hand : ['6H', '7S', 'JH', 'KH', 'AH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  765 is : Player 2
+Winning players hand : ['9D', 'TC', '4C', 'QC', '9S']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  766 is : Player 2
+Winning players hand : ['AS', 'QD', '7H', 'JS', '4D']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  767 is : Player 2
+Winning players hand : ['5H', '3C', '3H', '9C', '9D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  768 is : Player 2
+Winning players hand : ['AS', 'AC', '9S', '5C', 'KC']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  769 is : Player 2
+Winning players hand : ['6D', 'AH', '2D', 'KC', 'TC']
+RANK P1 : 9. Rank P2 : 20 
+Winner of game  770 is : Player 2
+Winning players hand : ['6D', 'KH', 'KS', '8D', '7D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  771 is : Player 2
+Winning players hand : ['QC', '3H', '5S', '3S', '8H']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  772 is : Player 1
+Winning players hand : ['3S', 'AS', 'KD', '8H', '4C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  773 is : Player 1
+Winning players hand : ['7S', '6D', '7H', '9D', 'JH']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  774 is : Player 1
+Winning players hand : ['4S', '2H', '2C', '4C', '8S']
+RANK P1 : 30. Rank P2 : 20 
+Winner of game  775 is : Player 1
+Winning players hand : ['3H', '3S', '6C', 'QS', 'QC']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  776 is : Player 1
+Winning players hand : ['2H', '8D', 'JH', '2S', '3H']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  777 is : Player 2
+Winning players hand : ['TS', '2H', '7S', '6S', 'AD']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  778 is : Player 2
+Winning players hand : ['5C', '7D', 'KC', 'JD', '4H']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  779 is : Player 1
+Winning players hand : ['QC', '5S', '9H', '9C', '4D']
+RANK P1 : 9. Rank P2 : 11 
+Winner of game  780 is : Player 2
+Winning players hand : ['6H', '5C', '8H', 'JS', '7S']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  781 is : Player 2
+Winning players hand : ['4D', 'JC', 'TH', '5H', 'KC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  782 is : Player 2
+Winning players hand : ['9S', '2D', '4C', 'KC', '4D']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  783 is : Player 2
+Winning players hand : ['KS', 'AD', 'TS', '4C', '4H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  784 is : Player 2
+Winning players hand : ['KS', '7H', '5D', 'KD', '4C']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  785 is : Player 1
+Winning players hand : ['9C', '2S', '2H', 'JC', '6S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  786 is : Player 1
+Winning players hand : ['7S', 'AC', '8H', 'KC', '8S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  787 is : Player 1
+Winning players hand : ['JS', '2D', 'JH', '8C', '4S']
+RANK P1 : 9. Rank P2 : 20 
+Winner of game  788 is : Player 2
+Winning players hand : ['7C', 'AS', 'AC', '8H', '5S']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  789 is : Player 2
+Winning players hand : ['2S', 'QH', '6S', '9C', '2C']
+RANK P1 : 9. Rank P2 : 30 
+Winner of game  790 is : Player 2
+Winning players hand : ['QS', '8D', 'QD', '8S', 'TC']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  791 is : Player 1
+Winning players hand : ['9C', '3D', 'AH', '9H', '5S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  792 is : Player 2
+Winning players hand : ['6D', '7S', 'KH', 'KC', '9H']
+RANK P1 : 10. Rank P2 : 14 
+Winner of game  793 is : Player 2
+Winning players hand : ['JH', '8C', '7D', 'AC', '2S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  794 is : Player 1
+Winning players hand : ['QD', '9D', '9C', '3S', 'JC']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  795 is : Player 2
+Winning players hand : ['8C', '9H', '9S', '8H', '3H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  796 is : Player 2
+Winning players hand : ['AD', '4S', 'TC', 'AH', '9H']
+RANK P1 : 20. Rank P2 : 8 
+Winner of game  797 is : Player 1
+Winning players hand : ['TS', 'AC', 'QC', 'TH', 'KC']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  798 is : Player 2
+Winning players hand : ['JC', 'AH', '2H', 'TS', '9H']
+RANK P1 : 12. Rank P2 : 11 
+Winner of game  799 is : Player 1
+Winning players hand : ['3H', '4D', 'QH', '5D', '9C']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  800 is : Player 2
+Winning players hand : ['JD', 'JS', 'TS', 'AC', '8D']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  801 is : Player 2
+Winning players hand : ['2S', '8C', '5S', 'AD', '2C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  802 is : Player 2
+Winning players hand : ['QH', 'QD', 'TC', '6H', '7D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  803 is : Player 1
+Winning players hand : ['7H', '2C', 'KC', '5S', 'KD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  804 is : Player 1
+Winning players hand : ['6H', '5C', 'AC', '5H', '2C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  805 is : Player 2
+Winning players hand : ['JD', '4H', '8C', '4C', 'KS']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  806 is : Player 2
+Winning players hand : ['4C', 'AS', '3D', 'QS', 'QC']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  807 is : Player 2
+Winning players hand : ['7D', '6H', 'JS', 'KH', '3C']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  808 is : Player 1
+Winning players hand : ['QD', '8S', '7D', '2H', '2C']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  809 is : Player 2
+Winning players hand : ['AD', '7C', '8D', 'QD', '6S']
+RANK P1 : 14. Rank P2 : 11 
+Winner of game  810 is : Player 1
+Winning players hand : ['3S', '7C', 'AD', '9H', '2H']
+RANK P1 : 14. Rank P2 : 30 
+Winner of game  811 is : Player 2
+Winning players hand : ['8H', '8S', '7S', 'TD', 'TC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  812 is : Player 1
+Winning players hand : ['JH', 'TH', 'TD', '3S', '4D']
+RANK P1 : 20. Rank P2 : 30 
+Winner of game  813 is : Player 2
+Winning players hand : ['4S', '9S', '9D', '4H', 'QC']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  814 is : Player 1
+Winning players hand : ['8C', 'JS', '9D', '6H', 'JD']
+RANK P1 : 13. Rank P2 : 9 
+Winner of game  815 is : Player 1
+Winning players hand : ['KC', '8S', '3D', '7C', 'TD']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  816 is : Player 2
+Winning players hand : ['TC', 'KC', 'KS', 'AC', '5S']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  817 is : Player 2
+Winning players hand : ['KD', '6H', '6D', '2D', '8C']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  818 is : Player 2
+Winning players hand : ['AC', '2D', '6S', 'TS', '5C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  819 is : Player 1
+Winning players hand : ['5H', '8C', '5S', '3C', '4S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  820 is : Player 1
+Winning players hand : ['AS', 'TS', '7C', '3H', 'AD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  821 is : Player 2
+Winning players hand : ['5H', '5D', '9H', 'TS', '4H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  822 is : Player 1
+Winning players hand : ['6C', '5C', '7H', '7S', 'TD']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  823 is : Player 2
+Winning players hand : ['8D', '8S', 'TS', 'QS', 'KH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  824 is : Player 2
+Winning players hand : ['AC', 'AH', '2C', '8H', '9S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  825 is : Player 2
+Winning players hand : ['3D', '4D', 'AH', 'JD', 'AS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  826 is : Player 2
+Winning players hand : ['JH', 'KH', '6C', 'QC', 'JS']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  827 is : Player 1
+Winning players hand : ['KC', 'TH', '2D', '6H', '7S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  828 is : Player 2
+Winning players hand : ['6D', '5D', 'TH', '2C', '2H']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  829 is : Player 2
+Winning players hand : ['8S', 'TS', '9H', 'TD', '7S']
+RANK P1 : 40. Rank P2 : 14 
+Winner of game  830 is : Player 1
+Winning players hand : ['JS', '6D', 'JD', 'JC', '2H']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  831 is : Player 1
+Winning players hand : ['KH', 'JD', '9S', '5D', '4H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  832 is : Player 2
+Winning players hand : ['4D', 'KH', 'QH', 'QS', '7S']
+RANK P1 : 14. Rank P2 : 50 
+Winner of game  833 is : Player 2
+Winning players hand : ['4C', '6H', '3S', '5S', '2C']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  834 is : Player 1
+Winning players hand : ['QS', '3D', 'JD', 'AS', '8D']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  835 is : Player 1
+Winning players hand : ['7S', '2H', '8C', 'QC', '7H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  836 is : Player 1
+Winning players hand : ['5S', '6C', '7H', 'KH', '7D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  837 is : Player 2
+Winning players hand : ['4D', 'KS', '2D', '8C', '4S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  838 is : Player 2
+Winning players hand : ['AH', 'AD', '2C', '9D', 'TD']
+RANK P1 : 14. Rank P2 : 10 
+Winner of game  839 is : Player 1
+Winning players hand : ['3C', 'AD', '4S', 'KS', 'JH']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  840 is : Player 1
+Winning players hand : ['AS', 'TD', '4D', '7C', 'JD']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  841 is : Player 1
+Winning players hand : ['3H', '9C', '8S', '9S', '6S']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  842 is : Player 2
+Winning players hand : ['TD', '7D', 'AS', '8C', '9D']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  843 is : Player 2
+Winning players hand : ['7S', '3D', 'KH', 'QC', '3C']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  844 is : Player 1
+Winning players hand : ['4D', 'AS', '4C', 'QS', '5S']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  845 is : Player 1
+Winning players hand : ['6D', 'AH', '6C', '4C', '5H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  846 is : Player 2
+Winning players hand : ['AC', '3S', '6S', '6C', 'KH']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  847 is : Player 2
+Winning players hand : ['AS', '6S', '3S', 'QC', '7H']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  848 is : Player 2
+Winning players hand : ['AH', '4H', 'AS', 'KC', '2C']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  849 is : Player 1
+Winning players hand : ['JH', '9C', '2C', '6H', '2D']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  850 is : Player 2
+Winning players hand : ['AS', '6S', 'QC', '6H', 'AD']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  851 is : Player 2
+Winning players hand : ['JS', '3C', 'TH', '3D', 'QS']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  852 is : Player 2
+Winning players hand : ['6H', 'AS', '8H', 'AD', 'JD']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  853 is : Player 2
+Winning players hand : ['7D', 'JS', '5S', '5H', 'TS']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  854 is : Player 2
+Winning players hand : ['3C', '6D', 'TS', '7S', 'AH']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  855 is : Player 1
+Winning players hand : ['7C', '4H', '7H', 'AH', 'QC']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  856 is : Player 2
+Winning players hand : ['5H', 'JH', 'TC', '6C', 'JD']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  857 is : Player 1
+Winning players hand : ['4S', '8C', '3D', '4H', 'JS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  858 is : Player 2
+Winning players hand : ['6S', 'AD', 'TD', 'TC', 'KH']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  859 is : Player 2
+Winning players hand : ['3D', 'AD', '6S', 'QD', '6H']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  860 is : Player 1
+Winning players hand : ['TH', '7C', '6H', 'TS', 'QH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  861 is : Player 2
+Winning players hand : ['7D', 'AC', 'KD', 'KH', '4H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  862 is : Player 2
+Winning players hand : ['JH', '8S', 'QD', 'TH', 'JD']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  863 is : Player 1
+Winning players hand : ['8D', '7D', '6C', '7C', '9D']
+RANK P1 : 9. Rank P2 : 13 
+Winner of game  864 is : Player 2
+Winning players hand : ['KS', 'JH', '2D', '8D', '4H']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  865 is : Player 2
+Winning players hand : ['3H', '9D', '2D', 'AH', '6D']
+RANK P1 : 10. Rank P2 : 30 
+Winner of game  866 is : Player 2
+Winning players hand : ['TD', 'KS', 'TH', 'KD', '3C']
+RANK P1 : 14. Rank P2 : 30 
+Winner of game  867 is : Player 2
+Winning players hand : ['KD', '9D', '2C', '2S', '9C']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  868 is : Player 1
+Winning players hand : ['8D', '3H', '5C', '7H', 'KS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  869 is : Player 1
+Winning players hand : ['2D', 'TH', '6D', 'QD', '6C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  870 is : Player 2
+Winning players hand : ['TC', '5H', 'QH', 'QC', 'JC']
+RANK P1 : 40. Rank P2 : 12 
+Winner of game  871 is : Player 1
+Winning players hand : ['3D', '5C', '6H', '3S', '3C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  872 is : Player 1
+Winning players hand : ['AC', '5C', '8C', '4D', '5D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  873 is : Player 2
+Winning players hand : ['JS', '6S', 'QD', '4C', 'QC']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  874 is : Player 2
+Winning players hand : ['JS', '3H', '7C', 'JC', 'AD']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  875 is : Player 2
+Winning players hand : ['TD', '9S', 'TS', '8S', '9H']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  876 is : Player 1
+Winning players hand : ['QD', 'TS', '7D', 'AS', 'AC']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  877 is : Player 2
+Winning players hand : ['8D', '9D', 'KH', '8S', '3C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  878 is : Player 2
+Winning players hand : ['JS', 'JC', 'AD', '4C', '3C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  879 is : Player 2
+Winning players hand : ['TH', '5H', 'JS', 'AC', 'JH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  880 is : Player 2
+Winning players hand : ['AS', 'KS', '6S', 'KH', '5S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  881 is : Player 2
+Winning players hand : ['2H', '5C', '9C', '9D', '6C']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  882 is : Player 2
+Winning players hand : ['JC', 'AC', 'QD', 'TD', '3H']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  883 is : Player 2
+Winning players hand : ['KD', 'KS', '5C', 'KC', '7S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  884 is : Player 1
+Winning players hand : ['6D', '2D', '3H', '2S', 'QD']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  885 is : Player 1
+Winning players hand : ['AS', '6D', '8D', '2C', '8S']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  886 is : Player 1
+Winning players hand : ['9C', '9H', '2D', 'TD', 'QH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  887 is : Player 1
+Winning players hand : ['KC', '8S', '3D', 'KH', '2S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  888 is : Player 1
+Winning players hand : ['9H', '9D', 'QS', 'AC', 'KC']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  889 is : Player 2
+Winning players hand : ['7D', '2H', '8S', 'AD', 'JS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  890 is : Player 1
+Winning players hand : ['3D', 'AC', '9S', 'AS', '2C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  891 is : Player 2
+Winning players hand : ['KS', '5S', '8H', '4C', '8D']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  892 is : Player 1
+Winning players hand : ['2H', '7H', '3S', '2S', '5H']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  893 is : Player 2
+Winning players hand : ['9C', '6D', 'AC', '9S', '3S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  894 is : Player 2
+Winning players hand : ['4S', '2S', 'AD', '6C', '6S']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  895 is : Player 2
+Winning players hand : ['KC', 'QH', 'QD', '2H', 'JH']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  896 is : Player 2
+Winning players hand : ['2H', '5C', '8H', 'QS', 'QD']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  897 is : Player 1
+Winning players hand : ['6D', 'KD', '6S', '7H', '3S']
+RANK P1 : 10. Rank P2 : 14 
+Winner of game  898 is : Player 2
+Winning players hand : ['2D', 'AD', '7S', '8S', 'TS']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  899 is : Player 2
+Winning players hand : ['JC', '8H', 'QH', 'TD', 'QD']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  900 is : Player 2
+Winning players hand : ['2C', 'KH', '9H', 'TH', 'AS']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  901 is : Player 2
+Winning players hand : ['5H', 'AD', 'QH', '9H', 'KC']
+RANK P1 : 10. Rank P2 : 14 
+Winner of game  902 is : Player 2
+Winning players hand : ['TD', '6S', 'AC', '7C', '2S']
+RANK P1 : 12. Rank P2 : 13 
+Winner of game  903 is : Player 2
+Winning players hand : ['KS', '4D', '6C', 'JH', '2S']
+RANK P1 : 10. Rank P2 : 13 
+Winner of game  904 is : Player 2
+Winning players hand : ['4C', 'KD', '6D', '3D', '9C']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  905 is : Player 1
+Winning players hand : ['2D', '9H', 'AH', 'AC', '7H']
+RANK P1 : 14. Rank P2 : 30 
+Winner of game  906 is : Player 2
+Winning players hand : ['AS', '8S', 'KD', '8C', 'KH']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  907 is : Player 1
+Winning players hand : ['2D', '7S', 'TD', 'TH', '6D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  908 is : Player 1
+Winning players hand : ['8S', 'QH', 'KD', 'JD', 'QS']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  909 is : Player 2
+Winning players hand : ['3S', 'AH', '7D', 'TD', '2D']
+RANK P1 : 12. Rank P2 : 30 
+Winner of game  910 is : Player 2
+Winning players hand : ['6C', '6D', 'TS', 'TH', '7S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  911 is : Player 2
+Winning players hand : ['9C', 'TS', '3H', '8D', '8S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  912 is : Player 2
+Winning players hand : ['AH', '2H', 'AD', '5S', 'TC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  913 is : Player 1
+Winning players hand : ['KD', '6C', '9C', '9D', 'TS']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  914 is : Player 2
+Winning players hand : ['KS', '4H', '3C', 'AD', 'TH']
+RANK P1 : 30. Rank P2 : 13 
+Winner of game  915 is : Player 1
+Winning players hand : ['KH', '9C', '2H', 'KD', '9D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  916 is : Player 2
+Winning players hand : ['5D', '9C', '9S', 'QH', '3H']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  917 is : Player 1
+Winning players hand : ['2D', '8C', 'TD', '4C', '2H']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  918 is : Player 2
+Winning players hand : ['KH', '5D', '7C', 'AD', '8D']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  919 is : Player 1
+Winning players hand : ['2S', '9S', '8S', '4C', '8C']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  920 is : Player 2
+Winning players hand : ['5C', '3C', '4S', '2S', '2H']
+RANK P1 : 11. Rank P2 : 9 
+Winner of game  921 is : Player 1
+Winning players hand : ['8S', '6S', '2H', 'JC', '3S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  922 is : Player 2
+Winning players hand : ['JD', '4C', '4H', '6S', '3S']
+RANK P1 : 20. Rank P2 : 11 
+Winner of game  923 is : Player 1
+Winning players hand : ['3H', '3S', '7D', '4C', '9S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  924 is : Player 2
+Winning players hand : ['QD', '9H', 'AD', '6D', '9C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  925 is : Player 2
+Winning players hand : ['4C', 'JD', 'KC', '4S', 'TH']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  926 is : Player 2
+Winning players hand : ['KD', '5H', 'AS', '9H', 'AD']
+RANK P1 : 12. Rank P2 : 30 
+Winner of game  927 is : Player 2
+Winning players hand : ['5C', 'TH', '5H', 'QH', 'QS']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  928 is : Player 2
+Winning players hand : ['4C', '4D', 'TC', 'TH', '6C']
+RANK P1 : 20. Rank P2 : 9 
+Winner of game  929 is : Player 1
+Winning players hand : ['KH', 'AS', 'TS', '9D', 'KD']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  930 is : Player 2
+Winning players hand : ['4C', 'TS', 'TH', 'AH', '7C']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  931 is : Player 1
+Winning players hand : ['KS', '4D', 'AC', '8S', '9S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  932 is : Player 1
+Winning players hand : ['5D', '5C', '8C', 'QS', 'TC']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  933 is : Player 1
+Winning players hand : ['9D', 'KS', '2D', '3C', 'KC']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  934 is : Player 1
+Winning players hand : ['8H', 'AH', '6H', '7D', '7S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  935 is : Player 2
+Winning players hand : ['7D', '4C', '8C', '4H', 'KC']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  936 is : Player 2
+Winning players hand : ['AH', 'JH', 'QH', '4C', '8S']
+RANK P1 : 12. Rank P2 : 30 
+Winner of game  937 is : Player 2
+Winning players hand : ['2S', '9H', '9C', '3S', '2C']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  938 is : Player 2
+Winning players hand : ['AC', 'TD', 'KC', '5S', '3H']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  939 is : Player 1
+Winning players hand : ['QH', 'AS', 'QS', '7D', 'JC']
+RANK P1 : 14. Rank P2 : 11 
+Winner of game  940 is : Player 1
+Winning players hand : ['QH', '3D', 'AS', 'JS', '4H']
+RANK P1 : 20. Rank P2 : 12 
+Winner of game  941 is : Player 1
+Winning players hand : ['5D', '4D', '2S', '4S', '9D']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  942 is : Player 2
+Winning players hand : ['AC', '2D', 'JH', '7C', '8S']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  943 is : Player 2
+Winning players hand : ['5S', '9H', '4C', '8H', '9D']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  944 is : Player 2
+Winning players hand : ['KS', '9D', 'KH', '8D', 'AH']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  945 is : Player 2
+Winning players hand : ['3H', 'QC', '5H', 'AH', '9C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  946 is : Player 2
+Winning players hand : ['JC', '9H', 'QC', '9C', 'TD']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  947 is : Player 1
+Winning players hand : ['5S', '5D', 'JC', 'QH', '2D']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  948 is : Player 1
+Winning players hand : ['JH', '5H', '5S', 'AH', '7H']
+RANK P1 : 11. Rank P2 : 14 
+Winner of game  949 is : Player 2
+Winning players hand : ['KC', '7S', 'AH', '6C', 'JH']
+RANK P1 : 14. Rank P2 : 13 
+Winner of game  950 is : Player 1
+Winning players hand : ['4C', 'KS', '9D', 'AD', '7S']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  951 is : Player 1
+Winning players hand : ['7H', '5C', '5H', '3C', '8H']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  952 is : Player 2
+Winning players hand : ['AD', 'AH', '9H', 'QH', '8H']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  953 is : Player 2
+Winning players hand : ['3C', '2H', '5D', '6D', '2S']
+RANK P1 : 20. Rank P2 : 10 
+Winner of game  954 is : Player 1
+Winning players hand : ['8S', '6S', 'TS', '3C', '6H']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  955 is : Player 1
+Winning players hand : ['KS', '3D', 'JH', '9C', '7C']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  956 is : Player 2
+Winning players hand : ['KD', '3S', 'JC', 'JH', 'KS']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  957 is : Player 2
+Winning players hand : ['2C', '7S', '5H', '8H', 'AH']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  958 is : Player 1
+Winning players hand : ['KC', '8D', 'QD', '6D', 'KH']
+RANK P1 : 11. Rank P2 : 13 
+Winner of game  959 is : Player 2
+Winning players hand : ['2S', '6D', 'KC', '7C', 'TC']
+RANK P1 : 20. Rank P2 : 8 
+Winner of game  960 is : Player 1
+Winning players hand : ['KD', '9C', 'JH', '7H', 'KC']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  961 is : Player 2
+Winning players hand : ['7H', '5S', '8S', '2H', '8D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  962 is : Player 1
+Winning players hand : ['AD', '7C', '3C', '7S', '5S']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  963 is : Player 2
+Winning players hand : ['JC', '4C', 'QH', 'QS', 'KH']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  964 is : Player 2
+Winning players hand : ['QC', '8S', '6D', 'JS', 'QD']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  965 is : Player 2
+Winning players hand : ['9H', 'AS', 'AC', '2C', 'JD']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  966 is : Player 1
+Winning players hand : ['QC', 'KS', 'QH', '7S', '3C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  967 is : Player 2
+Winning players hand : ['3H', 'KD', '3D', 'TS', '5C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  968 is : Player 2
+Winning players hand : ['3H', 'KD', 'AC', '4H', 'KS']
+RANK P1 : 10. Rank P2 : 12 
+Winner of game  969 is : Player 2
+Winning players hand : ['4C', '9C', '2H', '8C', 'QC']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  970 is : Player 2
+Winning players hand : ['4C', 'QH', 'AD', 'KD', 'JS']
+RANK P1 : 20. Rank P2 : 40 
+Winner of game  971 is : Player 2
+Winning players hand : ['JS', '9H', 'JC', 'KD', 'JD']
+RANK P1 : 10. Rank P2 : 7 
+Winner of game  972 is : Player 1
+Winning players hand : ['8S', '3C', '4S', 'TS', '7S']
+RANK P1 : 13. Rank P2 : 12 
+Winner of game  973 is : Player 1
+Winning players hand : ['JS', '7S', '5C', 'KD', '6D']
+RANK P1 : 30. Rank P2 : 12 
+Winner of game  974 is : Player 1
+Winning players hand : ['QH', '6C', 'TC', '6H', 'TD']
+RANK P1 : 10. Rank P2 : 20 
+Winner of game  975 is : Player 2
+Winning players hand : ['6S', '2C', '7H', '8S', '6C']
+RANK P1 : 30. Rank P2 : 14 
+Winner of game  976 is : Player 1
+Winning players hand : ['9H', '9D', 'JD', 'JH', '3S']
+RANK P1 : 12. Rank P2 : 14 
+Winner of game  977 is : Player 2
+Winning players hand : ['2S', '7D', '3C', 'AD', '4S']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  978 is : Player 1
+Winning players hand : ['5C', 'QC', 'QH', 'AS', 'TS']
+RANK P1 : 11. Rank P2 : 20 
+Winner of game  979 is : Player 2
+Winning players hand : ['JS', 'KD', 'KH', 'QS', '4H']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  980 is : Player 2
+Winning players hand : ['9D', '8D', 'KC', '3C', '8H']
+RANK P1 : 14. Rank P2 : 10 
+Winner of game  981 is : Player 1
+Winning players hand : ['2H', 'TC', '8S', 'AD', '9S']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  982 is : Player 2
+Winning players hand : ['AH', '9C', '7C', '8H', 'KD']
+RANK P1 : 30. Rank P2 : 14 
+Winner of game  983 is : Player 1
+Winning players hand : ['TS', 'QH', 'TD', 'QS', '3C']
+RANK P1 : 20. Rank P2 : 20 
+Winner of game  984 is : Player 1
+Winning players hand : ['5D', 'KC', '3H', '5S', 'AC']
+RANK P1 : 13. Rank P2 : 30 
+Winner of game  985 is : Player 2
+Winning players hand : ['6D', '6C', 'TD', 'TH', 'KD']
+RANK P1 : 10. Rank P2 : 13 
+Winner of game  986 is : Player 2
+Winning players hand : ['7D', 'KH', '8C', '9S', '6D']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  987 is : Player 1
+Winning players hand : ['JD', 'QS', '7S', 'QC', '2S']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  988 is : Player 2
+Winning players hand : ['9C', 'JC', 'AD', '2D', '7C']
+RANK P1 : 14. Rank P2 : 10 
+Winner of game  989 is : Player 1
+Winning players hand : ['4S', '5H', 'AH', 'JH', '9C']
+RANK P1 : 20. Rank P2 : 13 
+Winner of game  990 is : Player 1
+Winning players hand : ['KC', '6C', '7H', '6S', '9C']
+RANK P1 : 13. Rank P2 : 20 
+Winner of game  991 is : Player 2
+Winning players hand : ['TD', '9H', 'JD', 'TS', '3S']
+RANK P1 : 13. Rank P2 : 40 
+Winner of game  992 is : Player 2
+Winning players hand : ['TC', 'TD', 'QC', 'JD', 'TS']
+RANK P1 : 30. Rank P2 : 14 
+Winner of game  993 is : Player 1
+Winning players hand : ['QS', 'QD', 'AC', 'AD', '4C']
+RANK P1 : 12. Rank P2 : 20 
+Winner of game  994 is : Player 2
+Winning players hand : ['9C', 'KC', 'AS', '8D', 'AD']
+RANK P1 : 13. Rank P2 : 14 
+Winner of game  995 is : Player 2
+Winning players hand : ['6S', '5S', 'AH', '7S', '8C']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  996 is : Player 2
+Winning players hand : ['JD', 'AS', 'KH', '6S', 'JH']
+RANK P1 : 14. Rank P2 : 20 
+Winner of game  997 is : Player 2
+Winning players hand : ['JH', '2D', 'JS', 'QD', 'AC']
+RANK P1 : 11. Rank P2 : 30 
+Winner of game  998 is : Player 2
+Winning players hand : ['6H', '6C', 'JC', '3D', '3S']
+RANK P1 : 20. Rank P2 : 14 
+Winner of game  999 is : Player 1
+Winning players hand : ['QC', 'KC', '3S', 'JC', 'KD']
+RANK P1 : 14. Rank P2 : 12 
+Winner of game  1000 is : Player 1
+Winning players hand : ['AS', 'KD', '3D', 'JD', '8H']
