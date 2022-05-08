@@ -262,11 +262,13 @@ class Hand:
 def main(filename='card_game.txt'):
     file_to_read = open(filename, 'r')
     lines = file_to_read.readlines()
-    print(len(lines))
+    game_number = 0
+
     for line in lines:
+        game_number += 1
         # Use rstrip to remove /n newline character. split based on ' '
         all_hands_in_game = line.rstrip().split(' ')
-        # print(all_hands_in_game)
+
         p1_partition = all_hands_in_game[:5]
         p2_partition = all_hands_in_game[5:]
 
@@ -276,12 +278,9 @@ def main(filename='card_game.txt'):
         p1_hand = Hand(p1_list_of_cards)
         p2_hand = Hand(p2_list_of_cards)
 
-        print(p1_hand, p2_hand, sep=" ")
-
-
-
         rank_res_p1 = p1_hand.get_highest_rank()
         rank_res_p2 = p2_hand.get_highest_rank()
+
         p1_rank, p1_tie_breaker1, p1_tie_breaker2 = rank_res_p1[0], rank_res_p1[1], rank_res_p1[2] if len(rank_res_p1) == 3 else -1
         p2_rank, p2_tie_breaker1, p2_tie_breaker2 = rank_res_p2[0], rank_res_p2[1], rank_res_p2[2] if len(rank_res_p2) == 3 else -1
        
@@ -296,13 +295,13 @@ def main(filename='card_game.txt'):
         elif p2_rank > p1_rank:
             winner = PLAYER_2
         else:
-            print("1st TIE")
+            # print("1st TIE")
             if p1_tie_breaker1 > p2_tie_breaker1 :
                 winner = PLAYER_1
             elif p1_tie_breaker1 < p2_tie_breaker1 :
                 winner = PLAYER_2
             else:
-                print("2nd TIE")
+                # print("2nd TIE")
                 if p1_tie_breaker2 > p2_tie_breaker2 :
                     winner = PLAYER_1
                 elif p1_tie_breaker2 < p2_tie_breaker2 :
@@ -310,7 +309,7 @@ def main(filename='card_game.txt'):
                 else:    
                     winner = TIE
 
-        print( "Winner of game is : {}".format(winner))
+        print( "Winner of game  {} is : {}".format(game_number, winner))
 
         winning_hand = p1_partition if winner == PLAYER_1 else p2_partition
         if  winner != TIE :
